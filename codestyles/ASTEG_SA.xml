@@ -13,6 +13,7 @@
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="240" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_KEEP_LINE_BREAKS" value="false" />
   <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
