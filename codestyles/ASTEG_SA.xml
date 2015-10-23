@@ -38,27 +38,6 @@
     <option name="OBJECT_WRAPPING" value="0" />
     <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
-  <PHPCodeStyleSettings>
-    <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
-    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
-    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
-    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
-    <option name="ALIGN_ASSIGNMENTS" value="true" />
-    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
-    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
-    <option name="UPPER_CASE_BOOLEAN_CONST" value="true" />
-    <option name="UPPER_CASE_NULL_CONST" value="true" />
-    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
-  </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings>
-    <option name="NEW_LINE_BEFORE_FROM" value="false" />
-    <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
-    <option name="NEW_LINE_BEFORE_WHERE" value="false" />
-    <option name="NEW_LINE_BEFORE_GROUP_BY" value="false" />
-    <option name="NEW_LINE_BEFORE_ORDER_BY" value="false" />
-    <option name="NEW_LINE_AFTER_SELECT_2" value="2" />
-    <option name="TYPE_CASE" value="0" />
-  </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
   </TypeScriptCodeStyleSettings>
