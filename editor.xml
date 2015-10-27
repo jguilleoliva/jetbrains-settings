@@ -6,12 +6,14 @@
   </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="true" pattern="\b@TODO\b.*">
-      <option name="FOREGROUND" value="b15703" />
+      <option name="FOREGROUND" value="a8c023" />
       <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="true" pattern="\b@FIXME\b.*">
-      <option name="FOREGROUND" value="b15703" />
+      <option name="FOREGROUND" value="a8c023" />
       <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
   </component>
 </application>
