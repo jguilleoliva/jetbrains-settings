@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+<keymap version="1" name="ASTEG|webstorm|keymap" parent="Mac OS X">
   <action id="CloseActiveTab" />
   <action id="CloseContent" />
   <action id="EditorSelectWord" />
