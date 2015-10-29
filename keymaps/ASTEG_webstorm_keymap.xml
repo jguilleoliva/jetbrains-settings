@@ -1,7 +1,4 @@
-<keymap version="1" name="ASTEG|webstorm|keymap" parent="Mac OS X">
-  <action id="CloseActiveTab" />
-  <action id="CloseContent" />
-  <action id="EditorSelectWord" />
+<keymap version="1" name="ASTEG|webstorm|keymap" parent="Mac OS X 10.5+">
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="MoveLineDown">
@@ -12,20 +9,4 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
-  <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="control alt ENTER" />
-  </action>
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="control alt DOWN" />
-  </action>
-  <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="control alt LEFT" />
-  </action>
-  <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="control alt RIGHT" />
-  </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="control alt UP" />
-  </action>
-  <action id="tasks.close" />
 </keymap>
