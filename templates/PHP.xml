@@ -1,6 +1,10 @@
 <templateSet group="PHP">
   <template name="debug" value="\ASTEGframework_utilities\utilities::utilities_debug($OBJECT$);" description="PHP ASTEGframework Debug" toReformat="true" toShortenFQNames="true">
     <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
   </template>
 </templateSet>
