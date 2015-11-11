@@ -1,4 +1,11 @@
-<keymap version="1" name="ASTEG|webstorm|keymap" parent="Mac OS X 10.5+">
+<keymap version="1" name="ASTEG|webstorm" parent="Mac OS X">
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorSelectWord" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="MoveLineDown">

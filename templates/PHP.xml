@@ -4,7 +4,6 @@
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
