@@ -1,9 +1,25 @@
 <keymap version="1" name="ASTEG|webstorm" parent="Mac OS X">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="meta insert" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="meta alt w" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="EditorSelectWord" />
   <action id="HippieBackwardCompletion" />
@@ -16,6 +32,10 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -31,4 +51,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Vcs.QuickListPopupAction" />
 </keymap>
