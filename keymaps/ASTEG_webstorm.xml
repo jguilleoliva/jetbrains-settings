@@ -24,6 +24,11 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
