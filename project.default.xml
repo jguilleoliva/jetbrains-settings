@@ -1,45 +1,8 @@
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
-      <component name="Behat">
-        <behat_settings>
-          <BehatSettings />
-        </behat_settings>
-      </component>
-      <component name="Encoding">
-        <file url="PROJECT" charset="ISO-8859-1" />
-      </component>
-      <component name="Git.Settings">
-        <option name="ROOT_SYNC" value="DONT_SYNC" />
-        <option name="FORCE_PUSH_ALLOWED" value="true" />
-      </component>
-      <component name="JsBowerSettings">
-        <exe-path>/usr/local/bin/bower</exe-path>
-        <config-path />
-      </component>
       <component name="NamedScopeManager">
         <order />
-      </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-      <component name="ProjectDictionaryState">
-        <dictionary name="Crono" />
-        <dictionary name="crono" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>CoffeeScript</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -55,44 +18,6 @@
         <modules />
       </component>
       <component name="ProjectRootManager" version="2" />
-      <component name="PropertiesComponent">
-        <property name="options.lastSelected" value="settings.xslt" />
-        <property name="options.splitter.main.proportions" value="0.19904077" />
-        <property name="options.splitter.details.proportions" value="0.2" />
-        <property name="options.searchVisible" value="true" />
-        <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-      </component>
-      <component name="PublishConfigData" autoUpload="On explicit save action" promptOnRemoteOverwrite="CHECK_CONTENT" createEmptyFolders="true" traceLevel="DETAILS" notifyRemoteChanges="true">
-        <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
-      </component>
-      <component name="SshConsoleOptionsProvider">
-        <option name="myEncoding" value="UTF-8" />
-        <option name="myConnectionType" value="CURRENT_VAGRANT" />
-        <option name="myConnectionId" value="" />
-      </component>
-      <component name="VagrantProjectSettings">
-        <option name="instanceFolder" value="" />
-        <option name="provider" value="" />
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.3114257" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
-      </component>
     </defaultProject>
   </component>
 </application>
