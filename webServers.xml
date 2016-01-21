@@ -1,0 +1,83 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="85833590-9bba-414d-b27d-0175be9ea5cf" name="ig.astegapps.com" url="http://104.131.135.93">
+        <fileTransfer host="104.131.135.93" port="22" accessType="SFTP" password="dfcedfc5dfdbdf95df8edffbdff2dffedfc7dfc6df93df98dfccdf9cdfe1dff8df97dfd3" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d7956ce1-6ed2-4410-b6ea-cc96700cd1de" name="ftp.gepsa.gt" url="http://ftp.gepsa.gt">
+        <fileTransfer host="ftp.gepsa.gt" port="21" password="df99dff1dfe8dfeddfe7dfdddff8df92dfefdfe3dfc6df8cdfffdf84df84dfd4df9fdfe0" username="gepsa">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="77fdb233-96c0-466a-b6ac-64cce1bc061f" name="ftp.asteglabs.com" url="http://ftp.asteglabs.com">
+        <fileTransfer host="ftp.asteglabs.com" port="21" password="df9ddfc9dfe4df93dfd4dff4dfdddfe0dff2dff0dff1dffcdff9dfe5" username="asteglab">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="524bc2d7-3c8b-4b25-9948-ce7cd339a2aa" name="www.administracionenvios.com" url="http://www.administracionenvios.com">
+        <fileTransfer host="198.58.106.199" port="22" accessType="SFTP" password="dfe6dfefdfebdfe4dfefdff8df9fdf9edf9d" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f05fc617-fe8c-4b39-bd21-d00682964cc6" name="ftp.gracielariera.com" url="http://50.22.11.17">
+        <fileTransfer host="50.22.11.17" port="21" username="graciela">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="750009db-3a7e-4b1b-80db-93c0f4e13311" name="ftp.guatereporta.com" url="http://108.168.206.108">
+        <fileTransfer host="108.168.206.108" port="21" password="dfd3df9adfdddf8fdf83dfe3df82dfc2dfdcdfd1dfeddf9d" username="guaterep">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8c4451b8-fcad-4869-94c6-001598dd209f" name="beta.lingofante.com" url="http://104.236.109.26">
+        <fileTransfer host="104.236.109.26" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html/dev" accessType="SFTP" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4bc1548a-a764-4d24-a345-ff16abe1617c" name="www.arteludico.com" url="http://ftp.arteludico.com">
+        <fileTransfer host="ftp.arteludico.com" port="21" username="ludico">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4159d02b-be4b-45c3-a4ad-8843e4188157" name="ecomayaatitlan.com" url="http://ftp.ecomayaatitlan.com">
+        <fileTransfer host="ftp.ecomayaatitlan.com" port="21" password="dfe0dfffdfeddfe6df83dfc6df9cdff1dfc9dfd3dffedfdadffedfcbdf95dfe6dff0dfc1" username="ecomaya">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4cf869c0-65a3-4719-8006-2e9425317bb6" name="beta.retopeso.com" url="http://ftp.retopeso.com">
+        <fileTransfer host="ftp.retopeso.com" port="21" password="dfffdfd2dfc4df9fdff7dfc5dfc9df8fdfc4dfc2dfd4dfd1dff4dfe8dfc8dfd1dfecdfd2" username="reto">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5ae08544-5047-4fc6-8a31-686c2037e1da" name="ftp.hidrosala.com" url="http://ftp.hidrosala.com">
+        <fileTransfer host="ftp.hidrosala.com" port="21" password="dffcdfdbdff4dfc6dfd3dfc2dfe5dfd4dfc3df89df84df93df9edfcbdfc4df89df86df86" username="hidro">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
