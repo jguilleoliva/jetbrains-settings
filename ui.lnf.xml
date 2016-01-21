@@ -1,0 +1,12 @@
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="Raleway" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_ICONS_IN_MENUS" value="false" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
+  </component>
+</application>
