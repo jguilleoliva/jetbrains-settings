@@ -2,16 +2,6 @@
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
-  <component name="CodeStyleSettingsManager">
-    <option name="PER_PROJECT_SETTINGS">
-      <value>
-        <XML>
-          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-        </XML>
-      </value>
-    </option>
-    <option name="PREFERRED_PROJECT_CODE_STYLE" value="ASTEG|SA" />
-  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -60,19 +50,8 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="XPathView.XPathViewPlugin">
-    <option name="highlightStartTagOnly" value="false" />
-    <option name="attributes">
-      <TextAttributes>
-        <option name="effectType" />
-      </TextAttributes>
-    </option>
-    <option name="contextAttributes">
-      <TextAttributes>
-        <option name="effectType" />
-      </TextAttributes>
-    </option>
-    <option name="bHighlightStartTagOnly" value="false" />
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="5.10.1" last-modified="1459892643000" />
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>

@@ -1,0 +1,16 @@
+<application>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="highlightStartTagOnly" value="false" />
+    <option name="attributes">
+      <TextAttributes>
+        <option name="effectType" />
+      </TextAttributes>
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes>
+        <option name="effectType" />
+      </TextAttributes>
+    </option>
+    <option name="bHighlightStartTagOnly" value="false" />
+  </component>
+</application>
