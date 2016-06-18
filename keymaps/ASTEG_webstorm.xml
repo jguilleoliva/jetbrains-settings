@@ -41,6 +41,7 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="EditorContextInfo" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -62,6 +63,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="Exit">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="MoveLineDown">
