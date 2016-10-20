@@ -15,12 +15,15 @@
   </option>
   <option name="RIGHT_MARGIN" value="240" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_KEEP_LINE_BREAKS" value="false" />
   <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   <option name="HTML_KEEP_BLANK_LINES" value="0" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,header,footer,&lt;!-- --&gt;" />
+  <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
   <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var" />
+  <option name="HTML_ENFORCE_QUOTES" value="true" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
