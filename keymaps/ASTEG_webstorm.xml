@@ -66,6 +66,11 @@
   <action id="Exit">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="JumpToLastChange">
