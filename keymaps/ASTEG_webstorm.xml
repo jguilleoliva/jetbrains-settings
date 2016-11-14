@@ -70,10 +70,8 @@
   <action id="Exit">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="meta button1" />
-    <mouse-shortcut keystroke="control button1" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
@@ -104,19 +102,19 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
 </keymap>
