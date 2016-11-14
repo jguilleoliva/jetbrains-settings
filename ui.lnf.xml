@@ -14,6 +14,7 @@
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
