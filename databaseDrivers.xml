@@ -16,13 +16,6 @@
     <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="302b3178-58dc-44a7-83ae-149d17bc2ad4" name="Database Driver" dialect="MySQL" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
-      </library>
-    </driver>
     <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
       <option name="auto-sync" value="true" />
     </driver>
@@ -43,6 +36,10 @@
       <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
     </driver>
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="java.sql.Driver" name="MySql Driver" dialect="MySQL" driver-class="java.sql.Driver">
+      <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
