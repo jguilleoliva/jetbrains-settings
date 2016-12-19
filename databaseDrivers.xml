@@ -3,6 +3,13 @@
     <driver id="h2.unified" name="H2" dialect="H2">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="96d1a9f2-a1fa-4334-bc56-d4d125448a45" name="MySQL Driver" dialect="MySQL" driver-class="com.mysql.jdbc.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
+      </library>
+    </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
@@ -36,10 +43,6 @@
       <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
     </driver>
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="java.sql.Driver" name="MySql Driver" dialect="MySQL" driver-class="java.sql.Driver">
-      <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
