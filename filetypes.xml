@@ -9,6 +9,7 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile.*" type="textmate" />
       <mapping pattern="rake" type="textmate" />
       <mapping pattern="Capfile" type="textmate" />
@@ -36,6 +37,7 @@
       <mapping pattern="Gymfile" type="textmate" />
       <mapping pattern="prawn" type="textmate" />
       <mapping pattern="gemspec" type="textmate" />
+      <mapping pattern="txt" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
       <mapping pattern="Puppetfile" type="textmate" />
       <mapping pattern="Vagrantfile" type="textmate" />
@@ -49,6 +51,7 @@
       <mapping pattern="Snapfile" type="textmate" />
       <mapping ext="rhtml" type="textmate" />
       <mapping ext="rjs" type="textmate" />
+      <mapping ext="txt" type="textmate" />
       <mapping ext="gemspec" type="textmate" />
       <mapping ext=".vagrantplugins" type="textmate" />
       <mapping ext="rb" type="textmate" />
