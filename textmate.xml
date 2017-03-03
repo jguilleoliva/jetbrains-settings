@@ -6,6 +6,10 @@
           <option name="name" value="Ruby" />
           <option name="path" value="/Volumes/Data/Documents/Dropbox/Application Folders/phpstorm-textmate-bundles/ruby.tmbundle" />
         </BundleConfigBean>
+        <BundleConfigBean>
+          <option name="name" value="TodoTXT" />
+          <option name="path" value="/Volumes/Data/Documents/Dropbox/Application Folders/phpstorm-textmate-bundles/TodoTXT.tmBundle" />
+        </BundleConfigBean>
       </list>
     </option>
     <option name="themesMapping">
