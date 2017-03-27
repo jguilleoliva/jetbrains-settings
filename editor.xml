@@ -7,18 +7,13 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
   <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="true" pattern="\b@TODO\b.*">
-      <option name="FOREGROUND" value="b15703" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="true" pattern="\b@FIXME\b.*">
-      <option name="FOREGROUND" value="b15703" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="true" pattern="&lt;!---@TODO.*">
-      <option name="FOREGROUND" value="b15703" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
+    <pattern case-sensitive="true" pattern="\b@TODO\b.*" />
+    <pattern case-sensitive="true" pattern="\b@FIXME\b.*" />
+    <pattern case-sensitive="true" pattern="&lt;!---@TODO.*" />
   </component>
 </application>
