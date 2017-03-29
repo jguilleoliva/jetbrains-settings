@@ -14,11 +14,11 @@
       <mapping pattern="rake" type="textmate" />
       <mapping pattern="Capfile" type="textmate" />
       <mapping pattern="Hobofile" type="textmate" />
-      <mapping pattern=".vagrantplugins" type="textmate" />
+      <mapping pattern="Puppetfile" type="textmate" />
       <mapping pattern="Rakefile" type="textmate" />
       <mapping pattern="Berksfile.lock" type="textmate" />
-      <mapping pattern="html.erb" type="textmate" />
       <mapping pattern="Gemfile" type="textmate" />
+      <mapping pattern="rb" type="textmate" />
       <mapping pattern="erb" type="textmate" />
       <mapping pattern="Deliverfile" type="textmate" />
       <mapping pattern="cgi" type="textmate" />
@@ -34,13 +34,13 @@
       <mapping pattern="Fastfile" type="textmate" />
       <mapping pattern="Cheffile" type="textmate" />
       <mapping pattern="rhtml" type="textmate" />
-      <mapping pattern="rb" type="textmate" />
+      <mapping pattern=".vagrantplugins" type="textmate" />
+      <mapping pattern="html.erb" type="textmate" />
       <mapping pattern="Gymfile" type="textmate" />
       <mapping pattern="prawn" type="textmate" />
       <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="txt" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
-      <mapping pattern="Puppetfile" type="textmate" />
       <mapping pattern="Vagrantfile" type="textmate" />
       <mapping pattern="Appraisals" type="textmate" />
       <mapping pattern="Scanfile" type="textmate" />
@@ -49,6 +49,7 @@
       <mapping pattern="rbx" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Snapfile" type="textmate" />
+      <mapping ext="rhtml" type="textmate" />
       <mapping ext="rjs" type="textmate" />
       <mapping ext="txt" type="textmate" />
       <mapping ext="gemspec" type="textmate" />
@@ -62,7 +63,6 @@
       <mapping ext="ru" type="textmate" />
       <mapping ext="html.erb" type="textmate" />
       <mapping ext="erb" type="textmate" />
-      <mapping ext="rhtml" type="textmate" />
       <mapping ext="irbrc" type="textmate" />
       <mapping ext="fcgi" type="textmate" />
     </extensionMap>
