@@ -10,13 +10,11 @@
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile.*" type="textmate" />
       <mapping pattern="rake" type="textmate" />
-      <mapping pattern=".vagrantplugins" type="textmate" />
       <mapping pattern="Capfile" type="textmate" />
       <mapping pattern="Hobofile" type="textmate" />
-      <mapping pattern="Puppetfile" type="textmate" />
+      <mapping pattern=".vagrantplugins" type="textmate" />
       <mapping pattern="Rakefile" type="textmate" />
       <mapping pattern="Berksfile.lock" type="textmate" />
-      <mapping pattern="html.erb" type="textmate" />
       <mapping pattern="Gemfile" type="textmate" />
       <mapping pattern="erb" type="textmate" />
       <mapping pattern="Deliverfile" type="textmate" />
@@ -31,12 +29,14 @@
       <mapping pattern="Fastfile" type="textmate" />
       <mapping pattern="Cheffile" type="textmate" />
       <mapping pattern="rb" type="textmate" />
+      <mapping pattern="html.erb" type="textmate" />
       <mapping pattern="Gymfile" type="textmate" />
       <mapping pattern="prawn" type="textmate" />
       <mapping pattern="rjs" type="textmate" />
       <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="txt" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
+      <mapping pattern="Puppetfile" type="textmate" />
       <mapping pattern="Appraisals" type="textmate" />
       <mapping pattern="Scanfile" type="textmate" />
       <mapping pattern="Guardfile" type="textmate" />
