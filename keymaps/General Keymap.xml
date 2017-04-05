@@ -1,4 +1,4 @@
-<keymap version="1" name="Custom Keymap" parent="Mac OS X">
+<keymap version="1" name="General Keymap" parent="Mac OS X">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
     <keyboard-shortcut first-keystroke="meta insert" />
