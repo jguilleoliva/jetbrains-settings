@@ -56,12 +56,13 @@
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="VAR_DECLARATION_WRAP" value="0" />
     <option name="OBJECT_LITERAL_WRAP" value="0" />
     <option name="IMPORTS_WRAP" value="0" />
     <option name="UNION_TYPES_WRAP" value="0" />
-    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
