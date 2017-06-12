@@ -3,9 +3,4 @@
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern case-sensitive="true" pattern="\b@TODO\b.*" />
-    <pattern case-sensitive="true" pattern="\b@FIXME\b.*" />
-    <pattern case-sensitive="true" pattern="&lt;!---@TODO.*" />
-  </component>
 </application>
