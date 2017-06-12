@@ -85,6 +85,11 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <mouse-shortcut keystroke="shift button2" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="JumpToLastChange">
