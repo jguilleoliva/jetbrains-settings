@@ -24,6 +24,8 @@
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="DecrementWindowHeight" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.SelectedChange" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
@@ -40,7 +42,26 @@
     <keyboard-shortcut first-keystroke="shift semicolon" second-keystroke="d" />
   </action>
   <action id="EditorJoinLines" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
   <action id="EditorPasteFromX11" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="shift semicolon" second-keystroke="shift v" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="ExpandRegion" />
@@ -71,6 +92,10 @@
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab" />
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
   <action id="QuickEvaluateExpression">
     <mouse-shortcut keystroke="shift control alt button1" />
   </action>
