@@ -7,10 +7,21 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="CollapseAll" />
+  <action id="CollapseAllRegions" />
+  <action id="CollapseRegion" />
+  <action id="CollapseRegionRecursively" />
+  <action id="CollapseTreeNode" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl 7" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="DecrementWindowHeight" />
   <action id="Diff.SelectedChange" />
@@ -24,10 +35,15 @@
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="shift semicolon" second-keystroke="d" />
+  </action>
   <action id="EditorJoinLines" />
   <action id="EditorPasteFromX11" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="ExpandRegion" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
