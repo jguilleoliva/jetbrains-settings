@@ -1,11 +1,15 @@
 <keymap version="1" name="CRONO|universal" parent="Default for XWin">
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="ClassNameCompletion" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
     <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
   </action>
   <action id="CollapseAll" />
   <action id="CollapseAllRegions" />
@@ -71,6 +75,13 @@
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowHeight" />
   <action id="IncrementWindowWidth" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
+  <action id="MethodHierarchy" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
@@ -87,6 +98,7 @@
   </action>
   <action id="NextEditorTab" />
   <action id="NextTab" />
+  <action id="PopupHector" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
   <action id="QuickEvaluateExpression">
