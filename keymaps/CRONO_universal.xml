@@ -61,6 +61,9 @@
   <action id="EditorPasteFromX11" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="Exit">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
   <action id="ExpandRegion" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
