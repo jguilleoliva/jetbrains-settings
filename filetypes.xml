@@ -45,6 +45,7 @@
       <mapping pattern="Matchfile" type="textmate" />
       <mapping ext="gemspec" type="textmate" />
       <mapping ext="rbx" type="textmate" />
+      <mapping ext="rake" type="textmate" />
       <mapping ext="prawn" type="textmate" />
       <mapping ext="cgi" type="textmate" />
       <mapping ext="erb" type="textmate" />
@@ -58,7 +59,6 @@
       <mapping ext="html.erb" type="textmate" />
       <mapping ext="fcgi" type="textmate" />
       <mapping ext=".vagrantplugins" type="textmate" />
-      <mapping ext="rake" type="textmate" />
     </extensionMap>
   </component>
 </application>
