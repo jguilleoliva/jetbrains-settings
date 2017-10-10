@@ -3,18 +3,17 @@
     <option name="bundles">
       <list>
         <BundleConfigBean>
-          <option name="name" value="Ruby" />
-          <option name="path" value="/Volumes/Data/Documents/Dropbox/Application Folders/phpstorm-textmate-bundles/ruby.tmbundle" />
+          <option name="name" value="TodoTXT" />
+          <option name="path" value="$USER_HOME$/Dropbox/Application Folders/phpstorm-textmate-bundles/TodoTXT.tmBundle" />
         </BundleConfigBean>
         <BundleConfigBean>
-          <option name="name" value="TodoTXT" />
-          <option name="path" value="/Volumes/Data/Documents/Dropbox/Application Folders/phpstorm-textmate-bundles/TodoTXT.tmBundle" />
+          <option name="name" value="Ruby" />
+          <option name="path" value="$USER_HOME$/Dropbox/Application Folders/phpstorm-textmate-bundles/ruby.tmbundle" />
         </BundleConfigBean>
       </list>
     </option>
     <option name="themesMapping">
       <map>
-        <entry key="ASTEG-external-copy" value="Darcula" />
         <entry key="ASTEG|SA" value="Darcula" />
         <entry key="_@user_All hallow's eve" value="Darcula" />
         <entry key="_@user_Blackboard" value="Darcula" />

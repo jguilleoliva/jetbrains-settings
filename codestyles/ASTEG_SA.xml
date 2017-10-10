@@ -1,4 +1,5 @@
 <code_scheme name="ASTEG|SA">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="4" />
@@ -14,9 +15,7 @@
   </option>
   <option name="RIGHT_MARGIN" value="240" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
-  <option name="HTML_KEEP_LINE_BREAKS" value="false" />
-  <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
-  <option name="HTML_KEEP_BLANK_LINES" value="1" />
+  <option name="HTML_KEEP_BLANK_LINES" value="0" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,header,footer,&lt;!-- --&gt;" />
   <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
@@ -30,15 +29,12 @@
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_AFTER_PROPERTY_COLON" value="false" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
-    <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="VAR_DECLARATION_WRAP" value="0" />
-    <option name="OBJECT_LITERAL_WRAP" value="0" />
-    <option name="IMPORTS_WRAP" value="0" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="OBJECT_LITERAL_WRAP" value="1" />
   </JSCodeStyleSettings>
   <JSON>
     <option name="SPACE_AFTER_COLON" value="false" />
@@ -56,11 +52,14 @@
     <option name="UPPER_CASE_NULL_CONST" value="true" />
     <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
+    <option name="SPACE_BETWEEN_TERNARY_QUEST_AND_COLON" value="true" />
+    <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
   </PHPCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
-    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="VAR_DECLARATION_WRAP" value="0" />
     <option name="OBJECT_LITERAL_WRAP" value="0" />
     <option name="IMPORTS_WRAP" value="0" />
@@ -104,7 +103,6 @@
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
@@ -115,14 +113,11 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_AROUND_SHIFT_OPERATORS" value="false" />
     <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
@@ -137,8 +132,7 @@
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
-    <option name="IF_BRACE_FORCE" value="3" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
@@ -169,6 +163,11 @@
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
     <option name="PARENTHESES_EXPRESSION_LPAREN_WRAP" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="1" />
@@ -215,7 +214,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
-    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
@@ -225,8 +223,7 @@
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
-    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+    <option name="WRAP_COMMENTS" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
