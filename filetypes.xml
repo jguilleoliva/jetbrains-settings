@@ -33,6 +33,7 @@
       <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="txt" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
+      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping pattern="Appraisals" type="textmate" />
       <mapping pattern="Scanfile" type="textmate" />
       <mapping pattern="Guardfile" type="textmate" />
@@ -41,11 +42,11 @@
       <mapping pattern="rhtml" type="textmate" />
       <mapping pattern="Berksfile" type="textmate" />
       <mapping pattern="Snapfile" type="textmate" />
-      <mapping pattern="Vagrantfile" type="textmate" />
       <mapping pattern="Matchfile" type="textmate" />
       <mapping ext="gemspec" type="textmate" />
       <mapping ext="rbx" type="textmate" />
       <mapping ext="prawn" type="textmate" />
+      <mapping ext="rake" type="textmate" />
       <mapping ext="cgi" type="textmate" />
       <mapping ext="erb" type="textmate" />
       <mapping ext="rjs" type="textmate" />
@@ -58,7 +59,6 @@
       <mapping ext="html.erb" type="textmate" />
       <mapping ext="fcgi" type="textmate" />
       <mapping ext=".vagrantplugins" type="textmate" />
-      <mapping ext="rake" type="textmate" />
     </extensionMap>
   </component>
 </application>
