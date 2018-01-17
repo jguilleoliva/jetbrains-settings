@@ -12,6 +12,7 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="GUTTER_BACKGROUND" value="323232" />
+    <option name="WHITESPACES" value="373737" />
   </colors>
   <attributes>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
