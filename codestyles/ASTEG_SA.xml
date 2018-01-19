@@ -183,10 +183,6 @@
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_TRY_LBRACE" value="false" />
-    <option name="SPACE_BEFORE_ELSE_KEYWORD" value="false" />
-    <option name="SPACE_BEFORE_WHILE_KEYWORD" value="false" />
-    <option name="SPACE_BEFORE_CATCH_KEYWORD" value="false" />
-    <option name="SPACE_BEFORE_FINALLY_KEYWORD" value="false" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="PARENTHESES_EXPRESSION_LPAREN_WRAP" value="true" />
