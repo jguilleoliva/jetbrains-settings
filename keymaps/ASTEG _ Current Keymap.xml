@@ -1,4 +1,4 @@
-<keymap version="1" name="Current Keymap" parent="Mac OS X">
+<keymap version="1" name="ASTEG | Current Keymap" parent="Mac OS X">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
     <keyboard-shortcut first-keystroke="meta insert" />
