@@ -66,7 +66,7 @@
   </PHPCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="VAR_DECLARATION_WRAP" value="0" />
