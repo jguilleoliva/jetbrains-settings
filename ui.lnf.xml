@@ -8,6 +8,7 @@
     <option name="FONT_SCALE" value="1.0" />
     <option name="FONT_SIZE" value="14" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="HIDE_NAVIGATION_ON_FOCUS_LOSS" value="false" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
@@ -15,12 +16,10 @@
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="17" />
     <option name="MAX_LOOKUP_WIDTH2" value="773" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
   </component>
 </application>
