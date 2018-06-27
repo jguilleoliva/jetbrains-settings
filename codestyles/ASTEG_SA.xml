@@ -89,6 +89,9 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <tabFormat>
+    <option name="MODE" value="SkipSingleInlineSpaces" />
+  </tabFormat>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
