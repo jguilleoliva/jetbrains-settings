@@ -90,7 +90,7 @@
     <option name="ENABLED" value="false" />
   </editorconfig>
   <tabFormat>
-    <option name="MODE" value="SkipSingleInlineSpaces" />
+    <option name="MODE" value="IndentationOnly" />
   </tabFormat>
   <codeStyleSettings language="CSS">
     <indentOptions>
