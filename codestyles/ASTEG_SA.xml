@@ -64,6 +64,7 @@
     <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
+    <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
     <option name="SPACE_BETWEEN_TERNARY_QUEST_AND_COLON" value="true" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
@@ -182,8 +183,9 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="0" />
+    <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
-    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
