@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="mdown" type="Markdown" />
       <mapping ext="php-e" type="PLAIN_TEXT" />
+      <mapping ext="mdown" type="Markdown" />
     </extensionMap>
   </component>
 </application>

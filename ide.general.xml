@@ -9,5 +9,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
+    <entry key="ide.tooltip.show.with.actions" value="true" />
   </component>
 </application>
