@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping pattern="oot" type="PLAIN_TEXT" />
       <mapping ext="php-e" type="PLAIN_TEXT" />
-      <removed_mapping ext="txt" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <mapping ext="mdown" type="Markdown" />
       <mapping pattern=".gitignore_global" type="Git file" />
