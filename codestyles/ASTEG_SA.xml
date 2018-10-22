@@ -31,7 +31,6 @@
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,header,footer,&lt;!-- --&gt;" />
     <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
     <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var" />
-    <option name="HTML_QUOTE_STYLE" value="None" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="SPACE_AFTER_PROPERTY_COLON" value="false" />
