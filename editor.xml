@@ -11,7 +11,6 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
-    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
   </component>
   <component name="XmlEditorOptions">

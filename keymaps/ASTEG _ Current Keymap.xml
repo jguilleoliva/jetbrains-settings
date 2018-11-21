@@ -129,6 +129,9 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextEditorTab" />
+  <action id="NextParameter">
+    <keyboard-shortcut first-keystroke="ctrl alt tab" />
+  </action>
   <action id="NextTab" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
