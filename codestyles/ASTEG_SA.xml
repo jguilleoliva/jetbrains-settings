@@ -15,6 +15,7 @@
   <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
   <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var" />
   <option name="HTML_QUOTE_STYLE" value="None" />
+  <option name="SOFT_MARGINS" value="80,160" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
@@ -22,6 +23,9 @@
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
+  <DartCodeStyleSettings>
+    <option name="DELEGATE_TO_DARTFMT" value="false" />
+  </DartCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_TEXT_WRAP" value="0" />
@@ -32,7 +36,7 @@
     <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
     <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="SPACE_AFTER_PROPERTY_COLON" value="false" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
@@ -68,7 +72,7 @@
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
@@ -112,9 +116,35 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Dart">
+    <option name="RIGHT_MARGIN" value="160" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="WHILE_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="0" />
+    <option name="METHOD_PARAMETERS_WRAP" value="0" />
+    <option name="BINARY_OPERATION_WRAP" value="0" />
+    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
+    <option name="TERNARY_OPERATION_WRAP" value="0" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="false" />
+    <option name="ASSIGNMENT_WRAP" value="0" />
+    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="SOFT_MARGINS" value="160" />
     <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="EditorConfig">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="SPACE_BEFORE_COLON" value="true" />
+    <option name="SPACE_AFTER_COLON" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="Gherkin">
     <indentOptions>
