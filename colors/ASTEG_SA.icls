@@ -5,7 +5,8 @@
   <option name="EDITOR_FONT_NAME" value="Fira Code Light" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="GUTTER_BACKGROUND" value="323232" />
+    <option name="GUTTER_BACKGROUND" value="252729" />
+    <option name="LINE_NUMBERS_COLOR" value="484b4d" />
     <option name="WHITESPACES" value="373737" />
   </colors>
   <attributes>
@@ -92,6 +93,12 @@
       <value>
         <option name="ERROR_STRIPE_COLOR" value="36b13" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="756d56" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -296,10 +303,22 @@
         <option name="FOREGROUND" value="1a7a22" />
       </value>
     </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="191919" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b15703" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="272a2c" />
       </value>
     </option>
   </attributes>
