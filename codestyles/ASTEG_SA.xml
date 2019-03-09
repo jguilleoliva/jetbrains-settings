@@ -75,7 +75,6 @@
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
-    <option name="SPACE_BETWEEN_TERNARY_QUEST_AND_COLON" value="true" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
@@ -241,6 +240,10 @@
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_TRY_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_QUEST" value="false" />
+    <option name="SPACE_AFTER_QUEST" value="false" />
+    <option name="SPACE_BEFORE_COLON" value="false" />
+    <option name="SPACE_AFTER_COLON" value="false" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="PARENTHESES_EXPRESSION_LPAREN_WRAP" value="true" />
