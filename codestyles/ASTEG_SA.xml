@@ -39,7 +39,6 @@
     <option name="HTML_QUOTE_STYLE" value="Single" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_AFTER_PROPERTY_COLON" value="false" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
