@@ -5,10 +5,10 @@
   <option name="EDITOR_FONT_NAME" value="Fira Code Light" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="3e3a2e" />
+    <option name="CARET_ROW_COLOR" value="2b2b2b" />
     <option name="GUTTER_BACKGROUND" value="252729" />
     <option name="LINE_NUMBERS_COLOR" value="484b4d" />
-    <option name="SELECTION_BACKGROUND" value="25271f" />
+    <option name="SELECTION_BACKGROUND" value="26415d" />
     <option name="WHITESPACES" value="5c5c5c" />
   </colors>
   <attributes>
