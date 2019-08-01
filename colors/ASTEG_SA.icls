@@ -1,8 +1,14 @@
 <scheme name="ASTEG|SA" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="0.8" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code Light" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Hasklig" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Droid Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="2b2b2b" />
