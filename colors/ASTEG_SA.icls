@@ -15,8 +15,8 @@
     <option name="GUTTER_BACKGROUND" value="252729" />
     <option name="LINE_NUMBERS_COLOR" value="484b4d" />
     <option name="SELECTION_BACKGROUND" value="26415d" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-    <option name="WHITESPACES" value="8b8b8b" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="3f3f3f" />
+    <option name="WHITESPACES" value="3f3f3f" />
   </colors>
   <attributes>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
