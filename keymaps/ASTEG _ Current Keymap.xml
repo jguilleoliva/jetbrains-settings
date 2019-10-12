@@ -182,6 +182,9 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="ShowUmlDiagramPopup" />
+  <action id="StringManipulation.IncrementDuplicateNumbersAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt equals" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
