@@ -11,7 +11,7 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Hasklig" />
+    <option name="EDITOR_FONT_NAME" value="Fira Mono" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </console-font>
   <console-font>
