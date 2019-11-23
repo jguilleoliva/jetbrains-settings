@@ -22,6 +22,7 @@
     <option name="VALUE_ALIGNMENT" value="2" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+    <option name="SPACE_BEFORE_OPENING_BRACE" value="false" />
   </CssCodeStyleSettings>
   <DartCodeStyleSettings>
     <option name="DELEGATE_TO_DARTFMT" value="false" />
@@ -77,11 +78,20 @@
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="2" />
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+    <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </ScssCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
@@ -91,6 +101,7 @@
     <option name="UNION_TYPES_WRAP" value="0" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="ALIGN_IMPORTS" value="true" />
+    <option name="ALIGN_UNION_TYPES" value="true" />
     <option name="SPACES_WITHIN_UNION_TYPES" value="false" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
     <option name="SPACES_WITHIN_OBJECT_TYPE_BRACES" value="false" />
@@ -314,8 +325,10 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
@@ -361,7 +374,6 @@
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="WRAP_COMMENTS" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
