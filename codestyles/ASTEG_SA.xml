@@ -22,7 +22,6 @@
     <option name="VALUE_ALIGNMENT" value="2" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
-    <option name="SPACE_BEFORE_OPENING_BRACE" value="false" />
   </CssCodeStyleSettings>
   <DartCodeStyleSettings>
     <option name="DELEGATE_TO_DARTFMT" value="false" />
@@ -82,8 +81,6 @@
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
     <option name="VALUE_ALIGNMENT" value="2" />
-    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
-    <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </ScssCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
@@ -109,6 +106,9 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <tabFormat>
     <option name="MODE" value="IndentationOnly" />
     <option name="FIX_ON_ENTER" value="false" />
@@ -330,6 +330,7 @@
       <option name="INDENT_SIZE" value="4" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SQL">

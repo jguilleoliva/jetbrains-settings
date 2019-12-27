@@ -321,6 +321,7 @@
         <option name="FOREGROUND" value="1a7a22" />
       </value>
     </option>
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
