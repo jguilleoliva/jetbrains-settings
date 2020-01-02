@@ -39,6 +39,8 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -69,20 +71,10 @@
     <keyboard-shortcut first-keystroke="meta right" />
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
-  <action id="EditorLineEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift end" />
-    <keyboard-shortcut first-keystroke="shift meta right" />
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
-  </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
     <keyboard-shortcut first-keystroke="ctrl left" />
-  </action>
-  <action id="EditorLineStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift home" />
-    <keyboard-shortcut first-keystroke="shift meta left" />
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -146,6 +138,12 @@
   </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="MoveElementLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="MoveElementRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
