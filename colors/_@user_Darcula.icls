@@ -3,16 +3,23 @@
     <property name="created">2019-03-07T19:16:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-03-07T19:44:49</property>
+    <property name="modified">2020-02-05T12:37:53</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_HIJACKED" value="" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
     <option name="FILESTATUS_OBSOLETE" value="" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="" />
   </colors>
+  <attributes>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="191919" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
