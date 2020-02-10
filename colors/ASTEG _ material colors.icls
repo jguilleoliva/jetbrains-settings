@@ -1,11 +1,11 @@
-<scheme name="_@user_Material Darker" version="142" parent_scheme="Darcula">
+<scheme name="ASTEG | material colors" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-03-07T19:16:18</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2020-02-05T12:37:53</property>
-    <property name="originalScheme">Material Darker</property>
+    <property name="created">2020-02-07T12:43:32</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2019.3.2.0.0</property>
+    <property name="modified">2020-02-07T12:48:34</property>
+    <property name="originalScheme">Material Darker copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
   <font>
@@ -45,7 +45,8 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_MODIFIED" value="2e9ce2" />
+    <option name="FILESTATUS_NOT_CHANGED" value="dedede" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
