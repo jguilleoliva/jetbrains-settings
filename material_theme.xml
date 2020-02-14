@@ -4,6 +4,7 @@
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isTabsShadow" value="false" />
@@ -22,7 +23,8 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="14" />
     <option name="rightTreeIndent" value="14" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="tabsHeight" value="18" />
     <option name="accentColor" value="1957a7" />
     <option name="secondAccentColor" value="2d8ccf" />
     <option name="highlightColor" value="1957a7" />
