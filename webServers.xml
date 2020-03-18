@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3f52e1e3-dace-4abf-8ee9-4d495f148693" name="192.168.0.220" url="http://192.168.0.220">
+        <fileTransfer host="192.168.0.220" port="22" privateKey="/Volumes/Macintosh Data HD/Crono Data/Dropbox/configuration-sync/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
