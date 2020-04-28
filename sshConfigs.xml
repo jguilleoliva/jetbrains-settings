@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="192.168.0.220" id="24d110c0-bf6e-437a-a961-13a0b677b541" keyPath="/Volumes/Macintosh Data HD/Crono Data/Dropbox/configuration-sync/.ssh/id_rsa" port="22" customName="192.168.0.220" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
