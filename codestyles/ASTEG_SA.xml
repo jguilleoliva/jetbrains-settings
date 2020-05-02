@@ -50,6 +50,7 @@
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="VAR_DECLARATION_WRAP" value="0" />
     <option name="OBJECT_LITERAL_WRAP" value="1" />
+    <option name="ALIGN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
@@ -214,6 +215,7 @@
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_AROUND_SHIFT_OPERATORS" value="false" />
@@ -226,6 +228,7 @@
     <option name="SPACE_AFTER_QUEST" value="false" />
     <option name="SPACE_BEFORE_COLON" value="false" />
     <option name="SPACE_AFTER_COLON" value="false" />
+    <option name="PREFER_PARAMETERS_WRAP" value="true" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
