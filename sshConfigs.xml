@@ -1,8 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="192.168.0.220" id="2269d496-cd7f-4f1d-97fa-b90a1ffdf567" keyPath="/Volumes/Macintosh Data HD/Crono Data/Dropbox/configuration-sync/.ssh/id_rsa" port="22" customName="192.168.0.220" nameFormat="CUSTOM" username="crono" />
-      <sshConfig host="192.168.0.220" id="4371fb75-dd22-4c1f-9046-5603bf855160" keyPath="/Volumes/Macintosh Data HD/Crono Data/Dropbox/configuration-sync/.ssh/id_rsa" port="22" customName="192.168.0.220" nameFormat="CUSTOM" username="crono" />
+      <sshConfig host="192.168.0.220" id="24d110c0-bf6e-437a-a961-13a0b677b541" keyPath="/Volumes/Macintosh Data HD/Crono Data/Dropbox/configuration-sync/.ssh/id_rsa" port="22" customName="192.168.0.220" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
