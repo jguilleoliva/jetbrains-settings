@@ -59,6 +59,21 @@
     <option name="OBJECT_WRAPPING" value="0" />
     <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
+  <MySQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUERY_EL_COMMA" value="2" />
+    <option name="SUBQUERY_OPENING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="INSERT_SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="WHERE_EL_LINE" value="1" />
+    <option name="WHERE_EL_BOUND" value="0" />
+    <option name="ORDER_EL_LINE" value="1" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+  </MySQLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
