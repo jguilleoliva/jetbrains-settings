@@ -3,7 +3,7 @@
     <configs>
       <sshConfig host="192.168.0.220" id="24d110c0-bf6e-437a-a961-13a0b677b541" keyPath="/Volumes/Macintosh Data HD/Crono Data/Dropbox/configuration-sync/.ssh/id_rsa" port="22" customName="192.168.0.220" nameFormat="CUSTOM" />
       <sshConfig host="192.168.0.220" id="439a4652-2a67-4ec9-9203-dc931ac9a5fd" keyPath="/Volumes/Macintosh Data HD/Crono Data/Dropbox/configuration-sync/.ssh/id_rsa" port="22" customName="192.168.0.220" nameFormat="CUSTOM" username="crono" />
-      <sshConfig host="192.168.0.220" id="c0ebe388-a2f3-4189-833c-8786c7361aa3" keyPath="/Volumes/Macintosh Data HD/Crono Data/Dropbox/configuration-sync/.ssh/id_rsa" port="22" customName="192.168.0.220" nameFormat="CUSTOM" username="crono" />
+      <sshConfig host="192.168.0.220" id="936e5b56-35c7-4faf-bebc-33683ab9581d" keyPath="/Volumes/Macintosh Data HD/Crono Data/Dropbox/configuration-sync/.ssh/id_rsa" port="22" customName="192.168.0.220" nameFormat="CUSTOM" username="crono" />
     </configs>
   </component>
 </application>
