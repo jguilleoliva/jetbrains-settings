@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="192.168.0.220" id="677e148f-061e-4ba2-9e2b-c061ce901edb" keyPath="$USER_HOME$/Dropbox/configuration-sync/.ssh/id_rsa" port="22" customName="192.168.0.220" nameFormat="CUSTOM" username="crono" />
-      <sshConfig host="192.168.0.220" id="24ff42db-440a-4df7-893c-142da6f5a706" keyPath="$USER_HOME$/Dropbox/configuration-sync/.ssh/id_rsa" port="22" customName="192.168.0.220" nameFormat="CUSTOM" username="crono" />
+      <sshConfig host="192.168.0.220" id="aa855d64-9e14-406a-9bee-24a169e5b943" keyPath="$USER_HOME$/Dropbox/configuration-sync/.ssh/id_rsa" port="22" customName="192.168.0.220" nameFormat="CUSTOM" username="crono" />
     </configs>
   </component>
 </application>
