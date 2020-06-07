@@ -1,12 +1,11 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="2570a172-10e3-4b96-be0f-aac7df8f9076" name="192.168.0.220" url="http://192.168.0.220">
-        <fileTransfer host="192.168.0.220" port="22" privateKey="$USER_HOME$/Dropbox/configuration-sync/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+      <webServer id="3f52e1e3-dace-4abf-8ee9-4d495f148693" name="192.168.0.220" url="http://192.168.0.220">
+        <fileTransfer accessType="SFTP" sshConfigId="936e5b56-35c7-4faf-bebc-33683ab9581d" sshConfig="192.168.0.220">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>

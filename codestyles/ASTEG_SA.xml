@@ -50,7 +50,6 @@
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="VAR_DECLARATION_WRAP" value="0" />
     <option name="OBJECT_LITERAL_WRAP" value="1" />
-    <option name="ALIGN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
@@ -60,6 +59,21 @@
     <option name="OBJECT_WRAPPING" value="0" />
     <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
+  <MySQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUERY_EL_COMMA" value="2" />
+    <option name="SUBQUERY_OPENING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="INSERT_SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="WHERE_EL_LINE" value="1" />
+    <option name="WHERE_EL_BOUND" value="0" />
+    <option name="ORDER_EL_LINE" value="1" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+  </MySQLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
@@ -215,7 +229,6 @@
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_AROUND_SHIFT_OPERATORS" value="false" />
@@ -228,7 +241,6 @@
     <option name="SPACE_AFTER_QUEST" value="false" />
     <option name="SPACE_BEFORE_COLON" value="false" />
     <option name="SPACE_AFTER_COLON" value="false" />
-    <option name="PREFER_PARAMETERS_WRAP" value="true" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />

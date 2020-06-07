@@ -126,11 +126,6 @@
     <driver id="mongo">
       <artifact name="MongoDB" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="96d1a9f2-a1fa-4334-bc56-d4d125448a45" name="MySQL Driver" dialect="MySQL" driver-class="com.mysql.jdbc.Driver">
       <option name="auto-commit" value="true" />
