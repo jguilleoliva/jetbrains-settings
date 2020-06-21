@@ -22,7 +22,6 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateProjectToolWindow" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
