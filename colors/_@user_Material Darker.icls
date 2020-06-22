@@ -4,7 +4,7 @@
     <property name="created">2019-03-07T19:16:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2020-06-22T12:29:09</property>
+    <property name="modified">2020-06-22T12:32:54</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -80,7 +80,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
-    <option name="WHITESPACES" value="616161" />
+    <option name="WHITESPACES" value="d8d8d8" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d9f5dd" />
   </colors>
   <attributes>
@@ -3707,6 +3707,11 @@
     <option name="String">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="FOREGROUND" value="e3e3e3" />
       </value>
     </option>
     <option name="TAPESTRY_COMPONENT_TAG">
