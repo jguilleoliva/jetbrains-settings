@@ -21,10 +21,10 @@
     <option name="useMaterialFont2" value="true" />
     <option name="customSidebarHeight" value="20" />
     <option name="treeFontSize" value="14" />
-    <option name="tabFontSize" value="24" />
+    <option name="tabFontSize" value="14" />
     <option name="indicatorThickness" value="1" />
     <option name="rightTreeIndent" value="6" />
-    <option name="tabsHeight" value="16" />
+    <option name="tabsHeight" value="20" />
     <option name="accentColor" value="246fcb" />
     <option name="secondAccentColor" value="2692f7" />
     <option name="highlightColor" value="218ee9" />
