@@ -4,7 +4,7 @@
     <property name="created">2019-03-07T19:16:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2020-06-22T12:32:54</property>
+    <property name="modified">2020-06-22T12:47:59</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
@@ -72,7 +72,6 @@
     <option name="SELECTION_BACKGROUND" value="353535" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-    <option name="TABS" value="e7e7e7" />
     <option name="TEARLINE_COLOR" value="303030" />
     <option name="TOOLTIP" value="323232" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212121" />
@@ -3711,7 +3710,12 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="FOREGROUND" value="e3e3e3" />
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="cccccc" />
       </value>
     </option>
     <option name="TAPESTRY_COMPONENT_TAG">
