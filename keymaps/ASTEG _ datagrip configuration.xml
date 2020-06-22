@@ -1,6 +1,4 @@
 <keymap version="1" name="ASTEG | datagrip configuration" parent="Mac OS X 10.5+">
-  <action id="Console.TableResult.NextPage" />
-  <action id="Console.TableResult.PreviousPage" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -13,6 +11,7 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
-  <action id="NextOccurence" />
-  <action id="PreviousOccurence" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
 </keymap>
