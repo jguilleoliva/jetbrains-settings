@@ -3,6 +3,7 @@
     <configs>
       <sshConfig host="192.168.0.48" id="bd9e93f4-da31-4b6e-8c66-39d20f818ef6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="puntofresco.com.gt" id="5d87f539-691a-49f7-8768-54dfa5f8476b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="192.168.0.220" id="936e5b56-35c7-4faf-bebc-33683ab9581d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="crono" />
     </configs>
   </component>
 </application>
