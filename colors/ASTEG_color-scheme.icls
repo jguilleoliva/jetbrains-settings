@@ -1,5 +1,12 @@
-<scheme name="ASTEG|SA" version="142" parent_scheme="Darcula">
+<scheme name="ASTEG|color-scheme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-06-22T17:22:55</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2020.1.2.0.0</property>
+    <property name="modified">2020-06-22T17:23:00</property>
+    <property name="originalScheme">ASTEG|SA copy</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="0.8" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Light" />
@@ -22,8 +29,16 @@
   <colors>
     <option name="CARET_ROW_COLOR" value="2b2b2b" />
     <option name="FILESTATUS_ADDED" value="69ac38" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
     <option name="FILESTATUS_MODIFIED" value="1b97f2" />
     <option name="FILESTATUS_NOT_CHANGED" value="dedede" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="" />
     <option name="GUTTER_BACKGROUND" value="252729" />
     <option name="LINE_NUMBERS_COLOR" value="484b4d" />
     <option name="SELECTION_BACKGROUND" value="26415d" />
