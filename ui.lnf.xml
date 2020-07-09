@@ -1,12 +1,6 @@
 <application>
   <component name="UISettings">
-    <option name="ANIMATE_WINDOWS" value="false" />
-    <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
-    <option name="compactTreeIndents" value="true" />
-    <option name="HIDE_TABS_IF_NEED" value="false" />
-    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="showTreeIndentGuides" value="true" />
-    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
+    <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
   </component>
 </application>
