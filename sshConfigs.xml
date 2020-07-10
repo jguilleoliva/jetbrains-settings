@@ -8,6 +8,7 @@
       <sshConfig host="astegapps.com" id="4d477bf8-a724-4902-ade7-09e2271c2b53" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="192.168.0.32" id="fb5fa0d4-4c85-41fa-bce6-7f7a245e312f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="159.89.80.223" id="d5144ba0-460a-4559-b521-e723d735a261" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="192.168.0.52" id="cd0e0453-9d05-4838-81c2-ee96d2df5f94" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
     </configs>
   </component>
 </application>
