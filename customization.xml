@@ -5,6 +5,11 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NavBarToolBarOthers" is_group="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -20,32 +25,17 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Jdbc.OpenConsole.New.Generate" is_action="true" action_type="1" position="1">
+    <group value="DatabaseView.AddDataSourceFromThat" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Database.Settings" is_action="true" action_type="1" position="2">
+    <group value="PublishGroup.Download" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="DatabaseView.AddDriverAndDataSource" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="DatabaseView.AddDataSourceFromThat" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.Upload" is_action="true" action_type="1" position="6">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.Download" is_action="true" action_type="1" position="7">
+    <group value="PublishGroup.Upload" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
