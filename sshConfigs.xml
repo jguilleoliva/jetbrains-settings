@@ -4,12 +4,6 @@
       <sshConfig host="192.168.0.48" id="bd9e93f4-da31-4b6e-8c66-39d20f818ef6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="puntofresco.com.gt" id="5d87f539-691a-49f7-8768-54dfa5f8476b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="192.168.0.220" id="936e5b56-35c7-4faf-bebc-33683ab9581d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="crono" />
-      <sshConfig host="192.168.0.40" id="b0e68349-b777-478e-95ad-48106344760c" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
-      <sshConfig host="astegapps.com" id="4d477bf8-a724-4902-ade7-09e2271c2b53" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig host="192.168.0.32" id="fb5fa0d4-4c85-41fa-bce6-7f7a245e312f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
-      <sshConfig host="159.89.80.223" id="d5144ba0-460a-4559-b521-e723d735a261" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig host="192.168.0.52" id="cd0e0453-9d05-4838-81c2-ee96d2df5f94" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
-      <sshConfig host="incidejoven.org" id="5d789bf7-ca7a-4986-92cf-769ad5cde3bb" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>

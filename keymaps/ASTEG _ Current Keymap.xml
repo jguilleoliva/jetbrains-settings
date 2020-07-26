@@ -93,9 +93,6 @@
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
-  <action id="FileChooser.NewFile">
-    <keyboard-shortcut first-keystroke="shift meta n" />
-  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
@@ -130,7 +127,6 @@
   <action id="GotoBookmark9">
     <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
-  <action id="GotoFile" />
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -160,7 +156,6 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
-  <action id="NewScratchFile" />
   <action id="NextEditorTab" />
   <action id="NextParameter">
     <keyboard-shortcut first-keystroke="ctrl alt tab" />
@@ -174,14 +169,8 @@
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
-  <action id="Refresh">
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
-  </action>
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAll">
