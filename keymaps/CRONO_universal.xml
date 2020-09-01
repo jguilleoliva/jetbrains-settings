@@ -1,4 +1,10 @@
 <keymap version="1" name="CRONO|universal" parent="Default for XWin">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="ClassNameCompletion" />
   <action id="CloseActiveTab">
