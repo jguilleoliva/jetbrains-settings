@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta alt t" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
@@ -168,6 +171,10 @@
   </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
