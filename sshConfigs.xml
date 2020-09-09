@@ -21,6 +21,7 @@
       </sshConfig>
       <sshConfig host="192.168.0.60" id="3d84525f-290c-4e38-964e-c738f6c5f586" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="192.168.0.38" id="5f93742b-995d-45d8-8e50-edfaac5041b2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="167.71.109.251" id="651887a2-86f2-4485-a613-73b30195572c" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>
