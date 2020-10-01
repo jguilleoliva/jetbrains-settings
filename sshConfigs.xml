@@ -9,17 +9,6 @@
       <sshConfig host="astegapps.com" id="4d477bf8-a724-4902-ade7-09e2271c2b53" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="puntofresco.com.gt" id="5d87f539-691a-49f7-8768-54dfa5f8476b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="192.168.0.52" id="a62d5ed5-d442-44ca-9408-e4ea88ba5b1e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
-      <sshConfig host="192.168.0.30" id="2d53c382-89d2-43b1-9103-ac97c07e5847" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
-      <sshConfig host="192.168.0.58" id="4573ec4c-c451-4326-a2ad-7a6888cddebf" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
-      <sshConfig host="206.189.216.43" id="017a3ee3-478f-4118-acc2-b3dbc6cea1db" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig host="192.168.0.56" id="e79786f3-e3fb-4826-a4e1-e297f65f6381" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
-      <sshConfig host="incidejoven.org" id="5dac98e6-7640-4d08-9523-9defb3e3b7b6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig host="192.168.0.46" id="a7e51f24-8219-4e36-9273-0b9a21fa281e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
-      <sshConfig host="159.203.217.185" id="a39a2038-a926-44e0-bf60-bf65067b0af3" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig host="192.168.0.62" id="3d84525f-290c-4e38-964e-c738f6c5f586" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="vagrant@192.168.0.62:22" nameFormat="CUSTOM" username="vagrant">
-        <option name="customName" value="vagrant@192.168.0.62:22" />
-      </sshConfig>
-      <sshConfig host="192.168.0.60" id="3d84525f-290c-4e38-964e-c738f6c5f586" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
     </configs>
   </component>
 </application>

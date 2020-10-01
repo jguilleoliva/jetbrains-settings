@@ -5,6 +5,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="SMART_BACKSPACE" value="2" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
@@ -14,19 +15,36 @@
     <option name="FONT_FAMILY" value="Fira Code Light" />
     <option name="LINE_SPACING" value="0.9" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value=".SF NS Mono" />
   </component>
   <component name="EditorSettings">
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  </component>
+  <component name="InspectionProfileManager">
+    <info color="525229">
+      <option name="BACKGROUND" value="52503a" />
+      <option name="myName" value="Highlight" />
+      <option name="myVal" value="50" />
+      <option name="myExternalName" value="Highlight" />
+      <option name="myDefaultAttributes" />
+    </info>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="INFORMATION" />
+      <item index="1" class="java.lang.String" itemvalue="Highlight" />
+      <item index="2" class="java.lang.String" itemvalue="TYPO" />
+      <item index="3" class="java.lang.String" itemvalue="SERVER PROBLEM" />
+      <item index="4" class="java.lang.String" itemvalue="WEAK WARNING" />
+      <item index="5" class="java.lang.String" itemvalue="INFO" />
+      <item index="6" class="java.lang.String" itemvalue="WARNING" />
+      <item index="7" class="java.lang.String" itemvalue="ERROR" />
+    </list>
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
-  <component name="SqlFoldingSettings">
-    <option name="COLLAPSE_LONG_NUMBERS" value="false" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
