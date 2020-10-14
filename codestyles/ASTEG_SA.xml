@@ -107,6 +107,10 @@
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
+  <Properties>
+    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
   <ScssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
@@ -196,22 +200,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="Dart">
     <option name="RIGHT_MARGIN" value="160" />
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="WHILE_ON_NEW_LINE" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
-    <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
-    <option name="CALL_PARAMETERS_WRAP" value="0" />
-    <option name="METHOD_PARAMETERS_WRAP" value="0" />
-    <option name="BINARY_OPERATION_WRAP" value="0" />
-    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
-    <option name="TERNARY_OPERATION_WRAP" value="0" />
-    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="false" />
-    <option name="ASSIGNMENT_WRAP" value="0" />
-    <option name="WRAP_ON_TYPING" value="1" />
     <option name="SOFT_MARGINS" value="160" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
@@ -369,6 +357,9 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="Properties">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="Puppet">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
@@ -441,5 +432,114 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <arrangement>
+      <rules>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <NAME>xmlns:android</NAME>
+                <XML_ATTRIBUTE />
+                <XML_NAMESPACE>^$</XML_NAMESPACE>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <NAME>xmlns:.*</NAME>
+                <XML_ATTRIBUTE />
+                <XML_NAMESPACE>^$</XML_NAMESPACE>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <NAME>.*:id</NAME>
+                <XML_ATTRIBUTE />
+                <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <NAME>.*:name</NAME>
+                <XML_ATTRIBUTE />
+                <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <NAME>name</NAME>
+                <XML_ATTRIBUTE />
+                <XML_NAMESPACE>^$</XML_NAMESPACE>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <NAME>style</NAME>
+                <XML_ATTRIBUTE />
+                <XML_NAMESPACE>^$</XML_NAMESPACE>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <NAME>.*</NAME>
+                <XML_ATTRIBUTE />
+                <XML_NAMESPACE>^$</XML_NAMESPACE>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <NAME>.*</NAME>
+                <XML_ATTRIBUTE />
+                <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+              </AND>
+            </match>
+            <order>ANDROID_ATTRIBUTE_ORDER</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <NAME>.*</NAME>
+                <XML_ATTRIBUTE />
+                <XML_NAMESPACE>.*</XML_NAMESPACE>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+      </rules>
+    </arrangement>
   </codeStyleSettings>
 </code_scheme>
