@@ -20,6 +20,7 @@
       <sshConfig host="astegapps.com" id="4d477bf8-a724-4902-ade7-09e2271c2b53" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="puntofresco.com.gt" id="5d87f539-691a-49f7-8768-54dfa5f8476b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="159.203.217.185" id="329f52d6-3155-4ea7-b4f5-5919c1a78b61" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="192.168.0.66" id="95a1463c-8a49-4e5a-a77b-bef2dc28a80d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
     </configs>
   </component>
 </application>
