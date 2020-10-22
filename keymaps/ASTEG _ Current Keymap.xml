@@ -133,6 +133,7 @@
     <mouse-shortcut keystroke="shift button2" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="Images.ShowThumbnails" />
@@ -169,9 +170,15 @@
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="RerunTests" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
