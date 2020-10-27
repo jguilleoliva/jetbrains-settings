@@ -116,6 +116,7 @@
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
     <option name="VALUE_ALIGNMENT" value="2" />
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+    <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </ScssCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
@@ -524,7 +525,6 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
-            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
