@@ -28,6 +28,7 @@
       <sshConfig host="206.189.216.43" id="ec6b70ff-cc85-428a-abba-f1c5ef8965b1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="64.227.103.61" id="0f3e03c3-0b7d-4653-8e04-c937b355eb67" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="192.168.0.68" id="1fa20f6c-296a-44e6-b9d4-c4117ac711c8" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="api.asteg.co" id="0e57a2df-7ba6-4231-8fee-ca59f8d2ae08" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>
