@@ -31,6 +31,7 @@
       <sshConfig host="api.asteg.co" id="0e57a2df-7ba6-4231-8fee-ca59f8d2ae08" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="192.168.0.38" id="16773bac-f80e-481c-81c1-3e15fc184fbc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="laitaliana.gt" id="ca1a803c-c222-44b4-a94f-e8d4b95b2269" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="intus.astegcloud.com" id="1cf45b43-3614-4059-9c0c-63f6bf96f5a7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>
