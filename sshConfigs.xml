@@ -22,7 +22,7 @@
       <sshConfig host="159.203.217.185" id="329f52d6-3155-4ea7-b4f5-5919c1a78b61" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="192.168.0.66" id="95a1463c-8a49-4e5a-a77b-bef2dc28a80d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="159.89.80.223" id="71171902-f662-410a-8496-487937ec8fe9" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig host="192.168.0.32" id="8a4651a8-d1a3-4ff2-8907-6df46c2b598a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.32" id="8a4651a8-d1a3-4ff2-8907-6df46c2b598a" keyPath="$USER_HOME$/.ssh/id_rsa" port="2203" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="206.189.216.43" id="6b32389d-3cce-4bf4-973f-234f1662c455" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="192.168.0.72" id="73a5863c-8d87-47b3-9632-d791dd125bdf" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="206.189.216.43" id="ec6b70ff-cc85-428a-abba-f1c5ef8965b1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
@@ -32,6 +32,7 @@
       <sshConfig host="192.168.0.38" id="16773bac-f80e-481c-81c1-3e15fc184fbc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="laitaliana.gt" id="ca1a803c-c222-44b4-a94f-e8d4b95b2269" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="intus.astegcloud.com" id="1cf45b43-3614-4059-9c0c-63f6bf96f5a7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="192.168.1.32" id="4986ff2e-544b-4c1f-998c-63283d021e20" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
     </configs>
   </component>
 </application>
