@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="9bf94ae4-d382-4de9-8915-4c8072ca5e6e" name="white.astegapps.com" url="http://white.astegapps.com">
+        <fileTransfer rootFolder="/var/www/white.astegapps.com/public_html" accessType="SFTP" host="astegapps.com" port="22" sshConfigId="4d477bf8-a724-4902-ade7-09e2271c2b53" sshConfig="root@astegapps.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
