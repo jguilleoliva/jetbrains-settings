@@ -8,13 +8,6 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="240" />
-  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
-  <option name="HTML_KEEP_BLANK_LINES" value="0" />
-  <option name="HTML_ALIGN_TEXT" value="true" />
-  <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,header,footer,&lt;!-- --&gt;" />
-  <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
-  <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var" />
-  <option name="HTML_QUOTE_STYLE" value="None" />
   <option name="SOFT_MARGINS" value="80,160" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
@@ -107,10 +100,6 @@
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
-  <Properties>
-    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
-    <option name="KEEP_BLANK_LINES" value="true" />
-  </Properties>
   <ScssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
@@ -149,7 +138,6 @@
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
-    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -166,7 +154,6 @@
     <option name="SPACES_WITHIN_UNION_TYPES" value="false" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
     <option name="SPACE_WITHIN_TYPE_ASSERTION" value="true" />
-    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -358,9 +345,6 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="Properties">
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
-  </codeStyleSettings>
   <codeStyleSettings language="Puppet">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
@@ -419,11 +403,7 @@
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
-    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
