@@ -29,6 +29,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="457f5e18-3703-4dc0-80bb-e30dc2b2340f" name="mercadorepublica.com">
+        <fileTransfer accessType="SFTP" host="mercadorepublica.com" port="22" sshConfigId="52be0f49-62af-4267-9e4b-dbad346fbe39" sshConfig="root@mercadorepublica.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
