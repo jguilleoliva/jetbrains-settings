@@ -1545,7 +1545,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
               <option name="myPluginName" value="YAML" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1554,7 +1553,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
               <option name="myPluginName" value="YAML" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
