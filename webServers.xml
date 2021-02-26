@@ -44,7 +44,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="84d7fae5-7cf2-473c-8e80-efceb3716679" name="rebiengt.com">
-        <fileTransfer accessType="SFTP" host="rebiengt.com" port="22" sshConfigId="82204401-ed28-460a-863b-344987b2911e" sshConfig="root@rebiengt.com:22 key" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="82204401-ed28-460a-863b-344987b2911e" sshConfig="root@rebiengt.com:22 key">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
