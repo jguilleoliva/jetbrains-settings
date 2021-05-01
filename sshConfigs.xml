@@ -35,6 +35,7 @@
       <sshConfig host="192.168.0.32" id="d5c2743c-d4b7-40cb-af5f-a99d934f3678" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="alfasalud.net" id="810254bf-66fd-4913-b18a-96127bbff481" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="192.168.0.34" id="e994dc23-98ba-4362-add3-63f1b0a7e0fc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="mercadorepublica.com" id="52be0f49-62af-4267-9e4b-dbad346fbe39" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>
