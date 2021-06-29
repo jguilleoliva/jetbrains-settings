@@ -12,12 +12,15 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="17" />
-    <option name="FONT_FAMILY" value="Fira Code Light" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Light" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Light" />
     <option name="LINE_SPACING" value="0.9" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value=".SF NS Mono" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
