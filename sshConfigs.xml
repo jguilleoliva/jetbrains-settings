@@ -41,6 +41,7 @@
       <sshConfig host="165.227.60.113" id="40fce4bd-350a-4657-a79b-a44882d34e3e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="159.89.143.158" id="84820c07-3202-4fb5-8b60-19e8860bcf4e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig authType="PASSWORD" host="192.168.0.200" id="e8973cde-15cc-4468-a01c-55247d252c09" port="22" nameFormat="DESCRIPTIVE" username="crono" />
+      <sshConfig host="167.99.162.230" id="93274fd3-b958-4a5e-8315-8d32af1093f0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>
