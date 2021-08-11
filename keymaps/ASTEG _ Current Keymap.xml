@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateStructureToolWindow" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
@@ -65,6 +66,7 @@
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement" />
   <action id="EditorContextInfo" />
+  <action id="EditorFocusGutter" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -79,6 +81,7 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
+  <action id="EditorShowGutterIconTooltip" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
@@ -97,6 +100,36 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="GotoAction" />
+  <action id="GotoBookmark0">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="GotoBookmark1">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="GotoBookmark2">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="GotoBookmark3">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="GotoBookmark4">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="GotoBookmark5">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="GotoBookmark6">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="GotoBookmark7">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="GotoBookmark8">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="GotoBookmark9">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -176,6 +209,36 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ToggleBookmark0">
+    <keyboard-shortcut first-keystroke="shift alt 0" />
+  </action>
+  <action id="ToggleBookmark1">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
+  <action id="ToggleBookmark2">
+    <keyboard-shortcut first-keystroke="shift alt 2" />
+  </action>
+  <action id="ToggleBookmark3">
+    <keyboard-shortcut first-keystroke="shift alt 3" />
+  </action>
+  <action id="ToggleBookmark4">
+    <keyboard-shortcut first-keystroke="shift alt 4" />
+  </action>
+  <action id="ToggleBookmark5">
+    <keyboard-shortcut first-keystroke="shift alt 5" />
+  </action>
+  <action id="ToggleBookmark6">
+    <keyboard-shortcut first-keystroke="shift alt 6" />
+  </action>
+  <action id="ToggleBookmark7">
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+  </action>
+  <action id="ToggleBookmark8">
+    <keyboard-shortcut first-keystroke="shift alt 8" />
+  </action>
+  <action id="ToggleBookmark9">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.QuickListPopupAction" />
