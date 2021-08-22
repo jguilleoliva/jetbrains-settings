@@ -5,7 +5,6 @@
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="accentMode" value="true" />
-    <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
@@ -22,14 +21,16 @@
     <option name="customSidebarHeight" value="20" />
     <option name="treeFontSize" value="14" />
     <option name="tabFontSize" value="14" />
+    <option name="highlightThickness" value="3" />
     <option name="indicatorThickness" value="1" />
     <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="246fcb" />
     <option name="secondAccentColor" value="2692f7" />
     <option name="highlightColor" value="218ee9" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-3af91e26:1695adf4e68:-8000" />
-    <option name="version" value="5.2.0" />
+    <option name="version" value="5.5.0" />
   </component>
 </application>

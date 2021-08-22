@@ -8,6 +8,48 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="9bf94ae4-d382-4de9-8915-4c8072ca5e6e" name="white.astegapps.com" url="http://white.astegapps.com">
+        <fileTransfer rootFolder="/var/www/white.astegapps.com/public_html" accessType="SFTP" host="astegapps.com" port="22" sshConfigId="4d477bf8-a724-4902-ade7-09e2271c2b53" sshConfig="root@astegapps.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="66097f0e-c501-47cf-abcb-c9e5718690bb" name="grey.astegapps.com" url="http://white.astegapps.com">
+        <fileTransfer rootFolder="/var/www/grey.astegapps.com/public_html" accessType="SFTP" host="astegapps.com" port="22" sshConfigId="4d477bf8-a724-4902-ade7-09e2271c2b53" sshConfig="root@astegapps.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5f04a2bc-99f2-4b1c-b80f-ca1a7f041395" name="orange.astegapps.com" url="http://white.astegapps.com">
+        <fileTransfer rootFolder="/var/www/orange.astegapps.com/public_html" accessType="SFTP" host="astegapps.com" port="22" sshConfigId="4d477bf8-a724-4902-ade7-09e2271c2b53" sshConfig="root@astegapps.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="457f5e18-3703-4dc0-80bb-e30dc2b2340f" name="mercadorepublica.com">
+        <fileTransfer accessType="SFTP" sshConfigId="52be0f49-62af-4267-9e4b-dbad346fbe39" sshConfig="root@mercadorepublica.com:22 key">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2ffe3fdd-c36e-43c7-808f-8df40ed3f728" name="mercadorepublica - customer - APIs">
+        <fileTransfer accessType="SFTP" host="laitaliana.gt" port="22" sshConfigId="ca1a803c-c222-44b4-a94f-e8d4b95b2269" sshConfig="root@laitaliana.gt:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="84d7fae5-7cf2-473c-8e80-efceb3716679" name="rebiengt.com">
+        <fileTransfer accessType="SFTP" sshConfigId="82204401-ed28-460a-863b-344987b2911e" sshConfig="root@rebiengt.com:22 key">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
