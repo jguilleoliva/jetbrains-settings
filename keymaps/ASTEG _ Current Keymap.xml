@@ -20,10 +20,15 @@
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
+  <action id="ChooseDebugConfiguration" />
+  <action id="ChooseRunConfiguration" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="meta alt w" />
   </action>
@@ -38,6 +43,7 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="Console.TableResult.AddRow" />
+  <action id="Debug" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.ShowSettingsPopup" />
@@ -165,6 +171,9 @@
   </action>
   <action id="Rerun" />
   <action id="RerunTests" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
@@ -193,10 +202,4 @@
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.QuickListPopupAction" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta e" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
-  </action>
 </keymap>
