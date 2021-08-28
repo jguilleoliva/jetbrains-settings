@@ -102,6 +102,10 @@
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
+  <Properties>
+    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
   <ScssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
@@ -347,6 +351,9 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Properties">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="Puppet">
     <indentOptions>
