@@ -5,4 +5,16 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="output" value="\ASTEGframework_framework\framework::utilities_debug_output($ECHO$);" description="ASTEGframework Output" toReformat="false" toShortenFQNames="true">
+    <variable name="ECHO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dump" value="\ASTEGframework_framework\framework::utilities_debug_dump($ECHO$);" description="ASTEGframework Dump" toReformat="false" toShortenFQNames="true">
+    <variable name="ECHO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
