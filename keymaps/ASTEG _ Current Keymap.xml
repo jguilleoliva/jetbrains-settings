@@ -19,10 +19,16 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
+  <action id="ChooseDebugConfiguration" />
+  <action id="ChooseRunConfiguration" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="meta alt w" />
   </action>
@@ -36,6 +42,8 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Console.TableResult.AddRow" />
+  <action id="Debug" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.ShowSettingsPopup" />
@@ -65,6 +73,7 @@
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement" />
   <action id="EditorContextInfo" />
+  <action id="EditorFocusGutter" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -79,6 +88,7 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
+  <action id="EditorShowGutterIconTooltip" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
@@ -91,12 +101,22 @@
   <action id="ExportSettings">
     <keyboard-shortcut first-keystroke="ctrl meta alt e" />
   </action>
-  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoHome">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="GotoAction" />
+  <action id="GotoClass" />
+  <action id="GotoFile" />
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -151,6 +171,9 @@
   </action>
   <action id="Rerun" />
   <action id="RerunTests" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
