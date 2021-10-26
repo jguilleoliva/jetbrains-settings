@@ -42,7 +42,9 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
-  <action id="Console.TableResult.AddRow" />
+  <action id="Console.TableResult.AddRow">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
   <action id="Debug" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
@@ -108,9 +110,7 @@
   <action id="FileChooser.NewFile">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
-  <action id="FileChooser.NewFolder">
-    <keyboard-shortcut first-keystroke="shift meta n" />
-  </action>
+  <action id="FileChooser.NewFolder" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
