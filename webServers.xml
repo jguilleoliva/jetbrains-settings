@@ -43,6 +43,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="b34a4c7d-58d1-404e-b241-cdd03c482fc3" name="vps-mercadorepublica-01">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="laitaliana.gt" port="22" sshConfigId="ca1a803c-c222-44b4-a94f-e8d4b95b2269" sshConfig="root@laitaliana.gt:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
