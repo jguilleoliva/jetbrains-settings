@@ -1,0 +1,68 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.0.162" id="093aa73b-0a45-45eb-8eb7-394a099558fa" port="22" nameFormat="DESCRIPTIVE" username="crono" />
+      <sshConfig authType="PASSWORD" host="192.168.0.162" id="093aa73b-0a45-45eb-8eb7-394a099558fa" port="22" nameFormat="DESCRIPTIVE" username="crono" />
+      <sshConfig authType="PASSWORD" host="192.168.0.200" id="e8973cde-15cc-4468-a01c-55247d252c09" port="22" nameFormat="DESCRIPTIVE" username="crono" />
+      <sshConfig authType="PASSWORD" host="192.168.0.200" id="e8973cde-15cc-4468-a01c-55247d252c09" port="22" nameFormat="DESCRIPTIVE" username="crono" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.0.220" id="936e5b56-35c7-4faf-bebc-33683ab9581d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="crono" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="astegapps.com" id="4d477bf8-a724-4902-ade7-09e2271c2b53" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="laitaliana.gt" id="ca1a803c-c222-44b4-a94f-e8d4b95b2269" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="laitaliana.gt" id="ca1a803c-c222-44b4-a94f-e8d4b95b2269" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="159.203.217.185" id="329f52d6-3155-4ea7-b4f5-5919c1a78b61" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="159.203.217.185" id="e12232ee-618f-49a0-a059-f82dfe309570" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="159.203.217.185" id="e12232ee-618f-49a0-a059-f82dfe309570" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="159.89.134.53" id="bfb3d68b-b7df-40c1-9d09-4c56b9f07ef2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="159.89.143.158" id="84820c07-3202-4fb5-8b60-19e8860bcf4e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="159.89.143.158" id="84820c07-3202-4fb5-8b60-19e8860bcf4e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="159.89.80.223" id="71171902-f662-410a-8496-487937ec8fe9" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="159.89.80.223" id="d5144ba0-460a-4559-b521-e723d735a261" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="165.227.27.80" id="19a87d0f-639d-4ac1-b994-52a458d57104" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="165.227.27.80" id="19a87d0f-639d-4ac1-b994-52a458d57104" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="165.227.60.113" id="40fce4bd-350a-4657-a79b-a44882d34e3e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="165.227.60.113" id="40fce4bd-350a-4657-a79b-a44882d34e3e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="167.99.162.230" id="93274fd3-b958-4a5e-8315-8d32af1093f0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="167.99.162.230" id="93274fd3-b958-4a5e-8315-8d32af1093f0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="192.168.0.30" id="fb5fa0d4-4c85-41fa-bce6-7f7a245e312f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.32" id="d5c2743c-d4b7-40cb-af5f-a99d934f3678" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.32" id="d5c2743c-d4b7-40cb-af5f-a99d934f3678" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.34" id="e994dc23-98ba-4362-add3-63f1b0a7e0fc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.34" id="e994dc23-98ba-4362-add3-63f1b0a7e0fc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.36" id="61d1d972-acd8-406d-995b-2d331fa9fafa" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.36" id="61d1d972-acd8-406d-995b-2d331fa9fafa" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.38" id="16773bac-f80e-481c-81c1-3e15fc184fbc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.38" id="16773bac-f80e-481c-81c1-3e15fc184fbc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.40" id="b0e68349-b777-478e-95ad-48106344760c" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.42" id="b0e68349-b777-478e-95ad-481063447601" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.44" id="b0e68349-b777-478e-95ad-481063447602" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.46" id="b0e68349-b777-478e-95ad-481063447603" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.48" id="bd9e93f4-da31-4b6e-8c66-39d20f818ef6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.50" id="bd9e93f4-da31-4b6e-8c66-39d20f818e01" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.52" id="bd9e93f4-da31-4b6e-8c66-39d20f818e02" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.54" id="bd9e93f4-da31-4b6e-8c66-39d20f818e03" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.56" id="bd9e93f4-da31-4b6e-8c66-39d20f818e04" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.58" id="bd9e93f4-da31-4b6e-8c66-39d20f818e05" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.60" id="bd9e93f4-da31-4b6e-8c66-39d20f818e06" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.62" id="78596027-1882-426e-8c10-88319471da1e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.64" id="bd9e93f4-da31-4b6e-8c66-39d20f818e07" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.66" id="95a1463c-8a49-4e5a-a77b-bef2dc28a80d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.68" id="1fa20f6c-296a-44e6-b9d4-c4117ac711c8" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.68" id="1fa20f6c-296a-44e6-b9d4-c4117ac711c8" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="192.168.0.72" id="73a5863c-8d87-47b3-9632-d791dd125bdf" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="206.189.216.43" id="6b32389d-3cce-4bf4-973f-234f1662c455" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="206.189.216.43" id="ec6b70ff-cc85-428a-abba-f1c5ef8965b1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="206.189.216.43" id="ec6b70ff-cc85-428a-abba-f1c5ef8965b1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="64.227.103.61" id="0f3e03c3-0b7d-4653-8e04-c937b355eb67" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="64.227.103.61" id="0f3e03c3-0b7d-4653-8e04-c937b355eb67" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="64.227.7.254" id="bbb57534-9d11-4a05-925f-f753d3fb9c95" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="64.227.7.254" id="bbb57534-9d11-4a05-925f-f753d3fb9c95" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="alfasalud.net" id="810254bf-66fd-4913-b18a-96127bbff481" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="alfasalud.net" id="810254bf-66fd-4913-b18a-96127bbff481" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="api.asteg.co" id="0e57a2df-7ba6-4231-8fee-ca59f8d2ae08" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="api.asteg.co" id="0e57a2df-7ba6-4231-8fee-ca59f8d2ae08" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="intus.astegcloud.com" id="1cf45b43-3614-4059-9c0c-63f6bf96f5a7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="intus.astegcloud.com" id="1cf45b43-3614-4059-9c0c-63f6bf96f5a7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="puntofresco.com.gt" id="5d87f539-691a-49f7-8768-54dfa5f8476b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</application>

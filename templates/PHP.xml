@@ -1,0 +1,20 @@
+<templateSet group="PHP">
+  <template name="debug" value="\ASTEGframework_utilities\utilities::utilities_debug($ECHO$);" description="ASTEGframework Debug" toReformat="false" toShortenFQNames="true">
+    <variable name="ECHO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="output" value="\ASTEGframework_framework\framework::utilities_debug_output($ECHO$);" description="ASTEGframework Output" toReformat="false" toShortenFQNames="true">
+    <variable name="ECHO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dump" value="\ASTEGframework_framework\framework::utilities_debug_dump($ECHO$);" description="ASTEGframework Dump" toReformat="false" toShortenFQNames="true">
+    <variable name="ECHO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
