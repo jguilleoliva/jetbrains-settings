@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="3f52e1e3-dace-4abf-8ee9-4d495f148693" name="192.168.0.220" url="http://192.168.0.220">
+      <webServer id="3f52e1e3-dace-4abf-8ee9-4d495f148693" name="192.168.0.220" url="http://192.168.0.50">
         <fileTransfer accessType="SFTP" host="192.168.0.220" port="22" sshConfigId="936e5b56-35c7-4faf-bebc-33683ab9581d" sshConfig="crono@192.168.0.220:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
