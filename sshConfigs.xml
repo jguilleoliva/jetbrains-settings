@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="192.168.0.162" id="093aa73b-0a45-45eb-8eb7-394a099558fa" port="22" nameFormat="DESCRIPTIVE" username="crono" />
-      <sshConfig authType="PASSWORD" host="192.168.0.162" id="093aa73b-0a45-45eb-8eb7-394a099558fa" port="22" nameFormat="DESCRIPTIVE" username="crono" />
+      <sshConfig authType="PASSWORD" host="192.168.0.162" id="093aa73b-0a45-45eb-8eb7-394a099558fa" port="22" nameFormat="DESCRIPTIVE" username="crono" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="192.168.0.200" id="e8973cde-15cc-4468-a01c-55247d252c09" port="22" nameFormat="DESCRIPTIVE" username="crono" />
       <sshConfig host="192.168.0.200" id="e8973cde-15cc-4468-a01c-55247d252c09" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="crono" useOpenSSHConfig="true" />
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.0.220" id="936e5b56-35c7-4faf-bebc-33683ab9581d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="crono" />
