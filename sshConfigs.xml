@@ -1,21 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="40ea202a-01e1-4d8c-8195-4137173b7cf5" customName="192.168.0.220" nameFormat="CUSTOM" useOpenSSHConfig="true">
-        <option name="customName" value="192.168.0.220" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" id="fbc5b39b-d9bd-4dd0-b6d6-acceb3dd44a7" customName="dashboard.tugnomo.com" nameFormat="CUSTOM" useOpenSSHConfig="true">
-        <option name="customName" value="dashboard.tugnomo.com" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" id="f552b26e-e9cb-4631-8761-64d7de9b6e5e" customName="api.panito.gt" nameFormat="CUSTOM" useOpenSSHConfig="true">
-        <option name="customName" value="api.panito.gt" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" id="1004e59e-0abe-4fdf-828b-2b6e1ceb806f" customName="www.panito.gt" nameFormat="CUSTOM" useOpenSSHConfig="true">
-        <option name="customName" value="www.panito.gt" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" id="55894ab8-5073-48cb-a591-8c89924aa6c2" customName="159.203.183.249 - VPS - ASTEGAPPS" nameFormat="CUSTOM" useOpenSSHConfig="true">
-        <option name="customName" value="159.203.183.249 - VPS - ASTEGAPPS" />
-      </sshConfig>
+      <sshConfig host="192.168.0.220" id="936e5b56-35c7-4faf-bebc-33683ab9581d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="crono" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
