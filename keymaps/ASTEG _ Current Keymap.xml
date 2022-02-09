@@ -113,9 +113,6 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="FileChooser.NewFolder" />
-  <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="shift meta p" />
-  </action>
   <action id="GotoAction" />
   <action id="GotoClass" />
   <action id="GotoFile" />
@@ -160,6 +157,9 @@
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
+  <action id="PublishGroup.UploadTo">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
   <action id="Refresh">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
@@ -178,6 +178,9 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowBookmarks" />
