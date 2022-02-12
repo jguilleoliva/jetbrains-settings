@@ -1,27 +1,9 @@
 <application>
   <component name="StringManipulationState">
-    <option name="history">
-      <list>
-        <ColumnAlignerModel>
-          <option name="added" value="1545799799163" />
-          <option name="separators">
-            <list>
-              <option value="=" />
-              <option value="" />
-            </list>
-          </option>
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1545799844150" />
-          <option name="alignBy" value="VALUES" />
-          <option name="separators">
-            <list>
-              <option value="=" />
-              <option value="" />
-            </list>
-          </option>
-        </ColumnAlignerModel>
-      </list>
+    <option name="lastAction">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.IncrementDuplicateNumbersAction" />
+      </UniversalActionModel>
     </option>
     <option name="version" value="2" />
   </component>
