@@ -6,7 +6,7 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="laitaliana.gt" id="ca1a803c-c222-44b4-a94f-e8d4b95b2269" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="laitaliana.gt" id="ca1a803c-c222-44b4-a94f-e8d4b95b2269" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="159.203.217.185" id="329f52d6-3155-4ea7-b4f5-5919c1a78b61" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig host="159.89.134.53" id="bfb3d68b-b7df-40c1-9d09-4c56b9f07ef2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="159.89.134.53" id="bfb3d68b-b7df-40c1-9d09-4c56b9f07ef2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="159.89.143.158" id="84820c07-3202-4fb5-8b60-19e8860bcf4e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="159.89.80.223" id="71171902-f662-410a-8496-487937ec8fe9" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="165.227.27.80" id="19a87d0f-639d-4ac1-b994-52a458d57104" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
