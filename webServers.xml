@@ -1,0 +1,34 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2daf5730-8c0a-4a97-a8fa-25b437f83b25" name="159.203.183.249 - VPS - ASTEGAPPS.COM">
+        <fileTransfer accessType="SFTP" host="159.203.183.249" port="22" sshConfigId="b7ba2761-8540-4f5a-ba37-5f762d4623b2" sshConfig="root@159.203.183.249:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="21f871c1-c0d8-4aa2-9577-2573e4f89465" name="192.168.0.220">
+        <fileTransfer accessType="SFTP" host="192.168.0.220" port="22" sshConfigId="936e5b56-35c7-4faf-bebc-33683ab9581d" sshConfig="crono@192.168.0.220:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+    <groups>
+      <group>
+        <name>SERVER - DEVELOPMENT</name>
+        <servers>
+          <name value="159.203.183.249 - VPS - ASTEGAPPS.COM" />
+        </servers>
+      </group>
+      <group>
+        <name>LOCAL-DEVELOPMENT</name>
+        <servers>
+          <name value="192.168.0.220" />
+        </servers>
+      </group>
+    </groups>
+  </component>
+</application>
