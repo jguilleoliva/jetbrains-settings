@@ -8,12 +8,25 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="f8182f4d-0ef7-44c5-bb55-1d9052b240e3" name="vps-mercadorepublica-01">
+        <fileTransfer accessType="SFTP" host="panito.gt" port="22" sshConfigId="16703e24-b719-4aa9-9c84-ba31ad3b42a2" sshConfig="root@panito.gt:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
         <name>LOCAL-DEVELOPMENT</name>
         <servers>
           <name value="192.168.0.220 - ASTEG-SERVER" />
+        </servers>
+      </group>
+      <group>
+        <name>VPS-MERCADOREPUBLICA-01</name>
+        <servers>
+          <name value="vps-mercadorepublica-01" />
         </servers>
       </group>
     </groups>
