@@ -42,6 +42,9 @@
       <sshConfig host="intus.astegcloud.com" id="1cf45b43-3614-4059-9c0c-63f6bf96f5a7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="puntofresco.com.gt" id="5d87f539-691a-49f7-8768-54dfa5f8476b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="panito.gt" id="16703e24-b719-4aa9-9c84-ba31ad3b42a2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="192.168.1.34" id="9626e5e2-6170-4deb-8951-848476782c08" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="vagrant@192.168.1.34:22" nameFormat="CUSTOM" username="vagrant" useOpenSSHConfig="false">
+        <option name="customName" value="vagrant@192.168.1.34:22" />
+      </sshConfig>
     </configs>
   </component>
 </application>
