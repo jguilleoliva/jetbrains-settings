@@ -44,6 +44,10 @@
       <sshConfig host="192.168.1.34" id="93f7b446-d185-4ae8-bb37-305791dc893f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="vagrant@192.168.1.34:22" nameFormat="CUSTOM" username="vagrant" useOpenSSHConfig="false">
         <option name="customName" value="vagrant@192.168.1.34:22" />
       </sshConfig>
+      <sshConfig host="panito.gt" id="16703e24-b719-4aa9-9c84-ba31ad3b42a2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="192.168.1.34" id="9626e5e2-6170-4deb-8951-848476782c08" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="vagrant@192.168.1.34:22" nameFormat="CUSTOM" username="vagrant" useOpenSSHConfig="false">
+        <option name="customName" value="vagrant@192.168.1.34:22" />
+      </sshConfig>
     </configs>
   </component>
 </application>
