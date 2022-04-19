@@ -8,12 +8,46 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="1d821448-5baa-4859-bce4-b824069c3fc6" name="192.168.0.220 - LOCAL - ASTEG SERVER">
+        <fileTransfer accessType="SFTP" host="192.168.0.220" port="22" sshConfigId="936e5b56-35c7-4faf-bebc-33683ab9581d" sshConfig="crono@192.168.0.220:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f8182f4d-0ef7-44c5-bb55-1d9052b240e3" name="vps-mercadorepublica-01">
+        <fileTransfer accessType="SFTP" host="panito.gt" port="22" sshConfigId="16703e24-b719-4aa9-9c84-ba31ad3b42a2" sshConfig="root@panito.gt:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b6c4ca99-411b-489c-af88-08086b9c0570" name="astegapps.com">
+        <fileTransfer accessType="SFTP" host="astegapps.com" port="22" sshConfigId="4d477bf8-a724-4902-ade7-09e2271c2b53" sshConfig="root@astegapps.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
         <name>LOCAL-DEVELOPMENT</name>
         <servers>
           <name value="192.168.0.220 - ASTEG-SERVER" />
+          <name value="192.168.0.220 - LOCAL - ASTEG SERVER" />
+        </servers>
+      </group>
+      <group>
+        <name>VPS-MERCADOREPUBLICA-01</name>
+        <servers>
+          <name value="vps-mercadorepublica-01" />
+        </servers>
+      </group>
+      <group>
+        <name>VPS-ASTEGAPPS-01</name>
+        <servers>
+          <name value="astegapps.com" />
         </servers>
       </group>
     </groups>
