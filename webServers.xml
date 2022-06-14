@@ -1,13 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="e7ec8c9d-b279-4032-92cd-61140cb1a80c" name="192.168.0.220 - ASTEG-SERVER">
-        <fileTransfer accessType="SFTP" host="192.168.1.220" port="22" sshConfigId="936e5b56-35c7-4faf-bebc-33683ab9581d" sshConfig="crono@192.168.1.220:22 key" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="1d821448-5baa-4859-bce4-b824069c3fc6" name="192.168.1.220 - LOCAL - ASTEG SERVER">
         <fileTransfer accessType="SFTP" host="192.168.1.220" port="22" sshConfigId="936e5b56-35c7-4faf-bebc-33683ab9581d" sshConfig="crono@192.168.1.220:22 key" keyPair="true">
           <advancedOptions>
@@ -34,7 +27,6 @@
       <group>
         <name>LOCAL-DEVELOPMENT</name>
         <servers>
-          <name value="192.168.0.220 - ASTEG-SERVER" />
           <name value="192.168.1.220 - LOCAL - ASTEG SERVER" />
         </servers>
       </group>
