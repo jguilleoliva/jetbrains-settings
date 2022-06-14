@@ -176,9 +176,6 @@
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
     <option name="SPACE_WITHIN_TYPE_ASSERTION" value="true" />
   </TypeScriptCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <tabFormat>
     <option name="MODE" value="IndentationOnly" />
     <option name="FIX_ON_ENTER" value="false" />
