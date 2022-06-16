@@ -21,7 +21,7 @@
       <sshConfig host="192.168.0.38" id="16773bac-f80e-481c-81c1-3e15fc184fbc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="192.168.0.40" id="b0e68349-b777-478e-95ad-48106344760c" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="192.168.0.42" id="b0e68349-b777-478e-95ad-481063447601" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
-      <sshConfig host="192.168.1.44" id="b0e68349-b777-478e-95ad-481063447602" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" useOpenSSHConfig="false" />
+      <sshConfig host="192.168.1.40" id="b0e68349-b777-478e-95ad-481063447602" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" useOpenSSHConfig="false" />
       <sshConfig host="192.168.0.46" id="b0e68349-b777-478e-95ad-481063447603" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="192.168.0.48" id="bd9e93f4-da31-4b6e-8c66-39d20f818ef6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
       <sshConfig host="192.168.0.50" id="bd9e93f4-da31-4b6e-8c66-39d20f818e01" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
