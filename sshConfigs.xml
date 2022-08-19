@@ -34,6 +34,9 @@
       <sshConfig host="198.199.105.11" id="bd6a3e2c-a021-4767-aad7-3d6cd80267e1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig host="192.168.1.42" id="5026a4a2-8a1a-4067-b40c-6738fdf192c3" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" useOpenSSHConfig="true" />
       <sshConfig host="192.168.1.44" id="40ab9454-93f0-4536-a21e-8e358404037f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" useOpenSSHConfig="true" />
+      <sshConfig host="192.168.1.46" id="66f75eaa-b87f-4c91-9cea-99aba8f0111f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="vagrant@192.168.1.46:22" nameFormat="CUSTOM" username="vagrant" useOpenSSHConfig="true">
+        <option name="customName" value="vagrant@192.168.1.46:22" />
+      </sshConfig>
     </configs>
   </component>
 </application>
