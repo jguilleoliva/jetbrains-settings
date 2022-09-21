@@ -14,7 +14,7 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.5.0" />
     </driver>
     <driver id="96d1a9f2-a1fa-4334-bc56-d4d125448a45" name="MySQL Driver" dialect="MySQL" driver-class="com.mysql.jdbc.Driver">
       <library>
