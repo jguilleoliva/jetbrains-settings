@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeGlance.toggle" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+  </action>
   <action id="CommentByBlockComment" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
@@ -79,7 +82,13 @@
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement" />
   <action id="EditorContextInfo" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
   <action id="EditorFocusGutter" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
@@ -101,6 +110,9 @@
   </action>
   <action id="Exit">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
   </action>
   <action id="ExportSettings">
     <keyboard-shortcut first-keystroke="ctrl meta alt e" />
