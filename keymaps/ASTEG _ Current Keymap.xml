@@ -40,6 +40,7 @@
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta subtract" />
   </action>
+  <action id="CollapseRegion" />
   <action id="CommentByBlockComment" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
