@@ -108,7 +108,9 @@
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+    <option name="TREAT_MULTILINE_ARRAYS_AND_LAMBDAS_MULTILINE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
+    <option name="FORCE_EMPTY_METHODS_IN_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
   <Properties>
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
