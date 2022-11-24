@@ -2,6 +2,8 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="192.168.1.32" id="e96404eb-7caf-408e-863d-a00b3eb2bc97" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" useOpenSSHConfig="true" />
+      <sshConfig host="192.168.1.220" id="73ee7dcf-2b9c-4d68-a677-2f3c1d27968b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="crono" useOpenSSHConfig="true" />
+      <sshConfig host="206.189.216.43" id="cc208805-59d7-413f-9ddd-3e0d800cacdc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
