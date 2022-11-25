@@ -3,7 +3,7 @@
     <property name="created">2022-11-24T10:58:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-25T08:27:12</property>
+    <property name="modified">2022-11-25T08:50:49</property>
     <property name="originalScheme">_@user_Dark</property>
     <property name="rainbow PHP">false</property>
   </metaInfo>
@@ -439,7 +439,7 @@
     </option>
     <option name="PHP_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="28c404" />
+        <option name="FOREGROUND" value="9afa" />
       </value>
     </option>
     <option name="PHP_INSTANCE_METHOD">
@@ -478,7 +478,8 @@
     </option>
     <option name="PHP_PRIVATE_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="528f17" />
+        <option name="FOREGROUND" value="9afa" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_PROTECTED_INSTANCE_FIELD">
