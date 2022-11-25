@@ -9,4 +9,15 @@
     <entry key="ide.experimental.ui.inter.font" value="true" />
     <entry key="ide.experimental.ui.navbar.scroll" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Encoding" value="false" />
+        <entry key="FlowJSInfo" value="false" />
+        <entry key="Memory" value="true" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
+        <entry key="git" value="true" />
+      </map>
+    </option>
+  </component>
 </application>

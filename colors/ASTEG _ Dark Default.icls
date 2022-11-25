@@ -3,7 +3,7 @@
     <property name="created">2022-11-24T10:58:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-24T16:58:13</property>
+    <property name="modified">2022-11-25T08:06:38</property>
     <property name="originalScheme">_@user_Dark</property>
     <property name="rainbow PHP">false</property>
   </metaInfo>
@@ -219,13 +219,13 @@
     </option>
     <option name="PHP_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="ff9500" />
+        <option name="FOREGROUND" value="bba57e" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="ff9500" />
-        <option name="BACKGROUND" value="5e6465" />
+        <option name="BACKGROUND" value="232323" />
       </value>
     </option>
     <option name="PHP_FUNCTION">
@@ -263,6 +263,11 @@
     <option name="PHP_NUMBER">
       <value>
         <option name="FOREGROUND" value="7cc0ef" />
+      </value>
+    </option>
+    <option name="PHP_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="9fb1de" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
