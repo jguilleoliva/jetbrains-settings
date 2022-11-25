@@ -1,0 +1,32 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="38a972cd-64fe-49c2-b463-fa870ae30207" name="192.168.1.220">
+        <fileTransfer accessType="SFTP" host="192.168.1.220" port="22" sshConfigId="4ee1f7ca-f9b0-4a2d-a56f-6d294d02b44a" sshConfig="crono@192.168.1.220:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8ccfd32d-cd7c-4525-9c10-c2dea0beea4d" name="192.168.1.32">
+        <fileTransfer accessType="SFTP" host="192.168.1.32" port="22" sshConfigId="e96404eb-7caf-408e-863d-a00b3eb2bc97" sshConfig="vagrant@192.168.1.32:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+    <groups>
+      <group>
+        <name>VAGRANT - DEVELOPMENT</name>
+        <servers>
+          <name value="192.168.1.220" />
+          <name value="192.168.1.32" />
+        </servers>
+      </group>
+      <group>
+        <name>VPS - PRODUCTION</name>
+      </group>
+    </groups>
+  </component>
+</application>
