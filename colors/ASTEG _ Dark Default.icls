@@ -3,7 +3,7 @@
     <property name="created">2022-11-24T10:58:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-25T08:17:06</property>
+    <property name="modified">2022-11-25T08:27:12</property>
     <property name="originalScheme">_@user_Dark</property>
     <property name="rainbow PHP">false</property>
   </metaInfo>
@@ -130,7 +130,7 @@
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="28c404" />
+        <option name="FOREGROUND" value="2fa9d7" />
       </value>
     </option>
     <option name="CSS.PSEUDO">
@@ -247,12 +247,12 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="d29404" />
+        <option name="FOREGROUND" value="ccf8c9" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="83b765" />
+        <option name="FOREGROUND" value="7cc0ef" />
       </value>
     </option>
     <option name="HTML_CODE">
