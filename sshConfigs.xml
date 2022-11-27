@@ -5,6 +5,7 @@
       <sshConfig host="192.168.1.220" id="73ee7dcf-2b9c-4d68-a677-2f3c1d27968b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="crono" useOpenSSHConfig="true" />
       <sshConfig host="206.189.216.43" id="cc208805-59d7-413f-9ddd-3e0d800cacdc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig host="159.203.183.249" id="ac0c8475-e48f-4659-b339-1d8b02c92084" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="192.168.1.48" id="bdec1c96-d114-4509-bcbc-833110602c57" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
