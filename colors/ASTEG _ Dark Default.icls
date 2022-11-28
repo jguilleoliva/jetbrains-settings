@@ -3,7 +3,7 @@
     <property name="created">2022-11-24T10:58:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-25T08:27:12</property>
+    <property name="modified">2022-11-27T14:55:46</property>
     <property name="originalScheme">_@user_Dark</property>
     <property name="rainbow PHP">false</property>
   </metaInfo>
@@ -38,7 +38,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="393b40" />
     <option name="SELECTED_INDENT_GUIDE" value="6f737a" />
     <option name="SELECTED_TEARLINE_COLOR" value="545454" />
-    <option name="SELECTION_BACKGROUND" value="444444" />
+    <option name="SELECTION_BACKGROUND" value="5f8156" />
     <option name="TABS" value="da693d" />
     <option name="TAB_UNDERLINE" value="57ac5" />
     <option name="TEARLINE_COLOR" value="9a9a9a" />
@@ -439,7 +439,7 @@
     </option>
     <option name="PHP_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="28c404" />
+        <option name="FOREGROUND" value="9afa" />
       </value>
     </option>
     <option name="PHP_INSTANCE_METHOD">
@@ -478,7 +478,8 @@
     </option>
     <option name="PHP_PRIVATE_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="528f17" />
+        <option name="FOREGROUND" value="9afa" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_PROTECTED_INSTANCE_FIELD">
