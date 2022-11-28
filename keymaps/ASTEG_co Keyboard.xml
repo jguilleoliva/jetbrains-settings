@@ -1,0 +1,36 @@
+<keymap version="1" name="ASTEG|co Keyboard" parent="macOS System Shortcuts">
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="BookmarksView.MoveDown" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorTextEndWithSelection" />
+  <action id="EditorTextStartWithSelection" />
+  <action id="EditorToggleCase" />
+  <action id="Markdown.Styling.CreateLink" />
+  <action id="MoveElementLeft" />
+  <action id="MoveElementRight" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="QuickImplementations" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="Uml.ShowDiff" />
+</keymap>
