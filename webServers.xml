@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="38a972cd-64fe-49c2-b463-fa870ae30207" name="192.168.1.220">
-        <fileTransfer accessType="SFTP" host="192.168.1.220" port="22" sshConfigId="4ee1f7ca-f9b0-4a2d-a56f-6d294d02b44a" sshConfig="crono@192.168.1.220:22 key" keyPair="true">
+        <fileTransfer accessType="SFTP" host="192.168.1.220" port="22" sshConfigId="73ee7dcf-2b9c-4d68-a677-2f3c1d27968b" sshConfig="crono@192.168.1.220:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -12,6 +12,20 @@
         <fileTransfer accessType="SFTP" host="192.168.1.32" port="22" sshConfigId="e96404eb-7caf-408e-863d-a00b3eb2bc97" sshConfig="vagrant@192.168.1.32:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8a01fd42-94e5-4041-8099-7b3e9c0aca49" name="VPS - ASTEG PROPERTIES">
+        <fileTransfer accessType="SFTP" host="159.203.217.185" port="22" sshConfigId="4b14e64a-c7d1-4898-aabc-3df2d5e8bdd9" sshConfig="root@159.203.217.185:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="98afb996-f076-47ea-9cc4-0a19f5cb38ba" name="VPS - MERCADOREPUBLICA">
+        <fileTransfer accessType="SFTP" host="206.189.216.43" port="22" sshConfigId="cc208805-59d7-413f-9ddd-3e0d800cacdc" sshConfig="root@206.189.216.43:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
@@ -26,6 +40,10 @@
       </group>
       <group>
         <name>VPS - PRODUCTION</name>
+        <servers>
+          <name value="VPS - ASTEG PROPERTIES" />
+          <name value="VPS - MERCADOREPUBLICA" />
+        </servers>
       </group>
     </groups>
   </component>
