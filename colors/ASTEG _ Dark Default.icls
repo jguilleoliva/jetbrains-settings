@@ -3,7 +3,7 @@
     <property name="created">2022-11-24T10:58:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-28T01:21:12</property>
+    <property name="modified">2022-11-28T09:52:14</property>
     <property name="originalScheme">_@user_Dark</property>
     <property name="rainbow PHP">false</property>
   </metaInfo>
@@ -38,7 +38,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="393b40" />
     <option name="SELECTED_INDENT_GUIDE" value="6f737a" />
     <option name="SELECTED_TEARLINE_COLOR" value="545454" />
-    <option name="SELECTION_BACKGROUND" value="5f8156" />
+    <option name="SELECTION_BACKGROUND" value="425459" />
     <option name="TABS" value="da693d" />
     <option name="TAB_UNDERLINE" value="57ac5" />
     <option name="TEARLINE_COLOR" value="9a9a9a" />

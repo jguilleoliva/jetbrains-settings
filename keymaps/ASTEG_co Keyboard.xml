@@ -20,6 +20,12 @@
   <action id="Markdown.Styling.CreateLink" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextOccurence" />
@@ -30,7 +36,11 @@
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
+  <action id="PublishGroup.UploadTo">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
   <action id="QuickImplementations" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="Uml.ShowDiff" />
+  <action id="XDebugger.MoveWatchDown" />
 </keymap>
