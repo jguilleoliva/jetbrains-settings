@@ -1,5 +1,8 @@
 <keymap version="1" name="ASTEG|co Keyboard" parent="macOS System Shortcuts">
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
   <action id="BookmarksView.MoveDown" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.NextPage" />
@@ -25,6 +28,9 @@
   <action id="EditorTextEndWithSelection" />
   <action id="EditorTextStartWithSelection" />
   <action id="EditorToggleCase" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
   <action id="Markdown.Styling.CreateLink" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
@@ -38,6 +44,9 @@
   <action id="MoveStatementUp" />
   <action id="NextEditorTab" />
   <action id="NextOccurence" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
   <action id="PreviousTab">
