@@ -1,13 +1,14 @@
 <keymap version="1" name="ASTEG|co Keyboard" parent="macOS System Shortcuts">
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Back">
-    <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="BookmarksView.MoveDown" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift meta up" />
@@ -22,22 +23,24 @@
   <action id="EditorTextStartWithSelection" />
   <action id="EditorToggleCase" />
   <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="Markdown.Styling.CreateLink" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextEditorTab" />
   <action id="NextOccurence" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-  </action>
+  <action id="NextTab" />
   <action id="PreviousOccurence" />
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-  </action>
+  <action id="PreviousTab" />
   <action id="PublishGroup.Download">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
