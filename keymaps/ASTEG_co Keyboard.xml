@@ -44,14 +44,9 @@
   <action id="MoveStatementUp" />
   <action id="NextEditorTab" />
   <action id="NextOccurence" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-  </action>
-  <action id="PreviousEditorTab" />
+  <action id="NextTab" />
   <action id="PreviousOccurence" />
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-  </action>
+  <action id="PreviousTab" />
   <action id="PublishGroup.Download">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -64,5 +59,4 @@
   <action id="QuickImplementations" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="Uml.ShowDiff" />
-  <action id="XDebugger.MoveWatchDown" />
 </keymap>
