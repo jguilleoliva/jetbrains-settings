@@ -19,6 +19,12 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EditorSearchSession.NextOccurrenceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="EditorSearchSession.PrevOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
   <action id="EditorTextEndWithSelection" />
   <action id="EditorTextStartWithSelection" />
   <action id="EditorToggleCase" />
@@ -46,6 +52,9 @@
   </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="PublishGroup.UploadTo">
+    <keyboard-shortcut first-keystroke="shift meta y" />
   </action>
   <action id="QuickImplementations" />
   <action id="ShelveChanges.UnshelveWithDialog" />
