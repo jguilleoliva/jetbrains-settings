@@ -15,6 +15,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="de1b05ed-ea8d-44a8-8bc2-7020defe2ec9" name="192.168.1.44">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="192.168.1.44" port="22" sshConfigId="34a60b1e-77d1-497a-98cd-4ec1f45662a3" sshConfig="vagrant@192.168.1.44:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="8a01fd42-94e5-4041-8099-7b3e9c0aca49" name="VPS - ASTEG PROPERTIES">
         <fileTransfer accessType="SFTP" sshConfigId="4b14e64a-c7d1-4898-aabc-3df2d5e8bdd9" sshConfig="root@159.203.217.185:22 key">
           <advancedOptions>
@@ -36,6 +43,7 @@
         <servers>
           <name value="192.168.1.220" />
           <name value="192.168.1.32" />
+          <name value="192.168.1.44" />
         </servers>
       </group>
       <group>
