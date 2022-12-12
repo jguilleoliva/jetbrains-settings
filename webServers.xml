@@ -23,7 +23,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="550f89b1-e4d1-420f-a879-e341942e7173" name="192.168.1.50">
-        <fileTransfer accessType="SFTP" host="192.168.1.50" port="22" sshConfigId="6bc90730-8838-4a4c-9eb0-8ad9ded463a6" sshConfig="vagrant@192.168.1.50:22 key" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="6bc90730-8838-4a4c-9eb0-8ad9ded463a6" sshConfig="vagrant@192.168.1.50:22 key">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
