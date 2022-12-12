@@ -1,5 +1,8 @@
 <code_scheme name="ASTEG|co Coding Style" version="173">
-  <JSCodeStyleSettings version="0">
+  <JSON>
+    <option name="PROPERTY_ALIGNMENT" value="1" />
+  </JSON>
+    <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -55,6 +58,16 @@
     <option name="SPACE_WITHIN_TYPE_ASSERTION" value="true" />
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_WITHIN_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
