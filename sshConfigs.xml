@@ -8,6 +8,7 @@
       <sshConfig host="159.203.183.249" id="ac0c8475-e48f-4659-b339-1d8b02c92084" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig host="192.168.1.44" id="34a60b1e-77d1-497a-98cd-4ec1f45662a3" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" useOpenSSHConfig="true" />
       <sshConfig host="192.168.1.46" id="15d65ad2-6d5b-44dc-8243-dbb6ef1317d9" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" useOpenSSHConfig="true" />
+      <sshConfig host="192.168.1.50" id="ca039efb-e0fa-4cc8-abc4-7a3d947971b0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
