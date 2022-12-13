@@ -1,8 +1,5 @@
 <code_scheme name="ASTEG|co Coding Style" version="173">
-  <JSON>
-    <option name="PROPERTY_ALIGNMENT" value="1" />
-  </JSON>
-    <JSCodeStyleSettings version="0">
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -12,6 +9,9 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
   </JSCodeStyleSettings>
+  <JSON>
+    <option name="PROPERTY_ALIGNMENT" value="1" />
+  </JSON>
   <PHPCodeStyleSettings>
     <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
@@ -108,6 +108,11 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
