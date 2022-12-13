@@ -30,6 +30,7 @@
       </map>
     </option>
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
