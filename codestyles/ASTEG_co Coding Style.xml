@@ -71,6 +71,9 @@
     <option name="SPACE_WITHIN_TYPE_ASSERTION" value="true" />
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="CSS">
     <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
     <indentOptions>
