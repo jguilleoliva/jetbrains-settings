@@ -1,4 +1,10 @@
 <code_scheme name="ASTEG|co Coding Style" version="173">
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="2" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </CssCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
@@ -33,6 +39,13 @@
     <option name="SPACES_AROUND_PIPE_IN_UNION_TYPE" value="true" />
     <option name="FORCE_EMPTY_METHODS_IN_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="2" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+    <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
+  </ScssCodeStyleSettings>
   <SqlCodeStyleSettings version="6">
     <option name="KEYWORD_CASE" value="2" />
     <option name="IDENTIFIER_CASE" value="2" />
@@ -58,6 +71,24 @@
     <option name="SPACE_WITHIN_TYPE_ASSERTION" value="true" />
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+    <arrangement>
+      <rules>
+        <section>
+          <rule>
+            <match>
+              <NAME>.*</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+      </rules>
+    </arrangement>
+  </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
@@ -111,6 +142,29 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+    <arrangement>
+      <rules>
+        <section>
+          <rule>
+            <match>
+              <NAME>.*</NAME>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+      </rules>
+    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
     <indentOptions>
