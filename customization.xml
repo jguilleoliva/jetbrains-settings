@@ -1,0 +1,10 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ToolWindowsGroup" is_group="true" forse_popup="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="ToolWindowsGroup" icon="XDebugger.CopyWatch" />
+  </component>
+</application>
