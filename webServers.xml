@@ -30,7 +30,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="52cd0ca9-6ac2-4a8f-b66e-52c582a327f0" name="192.168.1.36">
-        <fileTransfer accessType="SFTP" sshConfigId="3ee1aa6a-9fd1-45c3-91fa-c91b8ae0cbe6" sshConfig="vagrant@192.168.1.36:22 key">
+        <fileTransfer accessType="SFTP" host="192.168.1.36" port="22" sshConfigId="3ee1aa6a-9fd1-45c3-91fa-c91b8ae0cbe6" sshConfig="vagrant@192.168.1.36:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -51,7 +51,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="4a440195-f27c-4f6f-87b7-d84522dd63bd" name="VPS - INTUSASTEGCLOUD">
-        <fileTransfer accessType="SFTP" host="198.199.105.11" port="22" sshConfigId="3f371c36-3a2a-40eb-bda7-8c491868f539" sshConfig="root@198.199.105.11:22 key" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="3f371c36-3a2a-40eb-bda7-8c491868f539" sshConfig="root@198.199.105.11:22 key">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
