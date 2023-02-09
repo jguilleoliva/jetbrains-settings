@@ -37,7 +37,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="8a01fd42-94e5-4041-8099-7b3e9c0aca49" name="VPS - ASTEG PROPERTIES">
-        <fileTransfer accessType="SFTP" sshConfigId="4b14e64a-c7d1-4898-aabc-3df2d5e8bdd9" sshConfig="root@159.203.217.185:22 key">
+        <fileTransfer accessType="SFTP" host="159.203.217.185" port="22" sshConfigId="4b14e64a-c7d1-4898-aabc-3df2d5e8bdd9" sshConfig="root@159.203.217.185:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -51,9 +51,16 @@
         </fileTransfer>
       </webServer>
       <webServer id="4a440195-f27c-4f6f-87b7-d84522dd63bd" name="VPS - INTUSASTEGCLOUD">
-        <fileTransfer accessType="SFTP" sshConfigId="3f371c36-3a2a-40eb-bda7-8c491868f539" sshConfig="root@198.199.105.11:22 key">
+        <fileTransfer accessType="SFTP" host="198.199.105.11" port="22" sshConfigId="3f371c36-3a2a-40eb-bda7-8c491868f539" sshConfig="root@198.199.105.11:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d355f146-69b4-4c6e-bc40-dec58beb957f" name="VPS - ASTEGAPPS">
+        <fileTransfer accessType="SFTP" host="159.203.183.249" port="22" sshConfigId="ac0c8475-e48f-4659-b339-1d8b02c92084" sshConfig="root@159.203.183.249:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
@@ -75,6 +82,7 @@
           <name value="VPS - ASTEG PROPERTIES" />
           <name value="VPS - MERCADOREPUBLICA" />
           <name value="VPS - INTUSASTEGCLOUD" />
+          <name value="VPS - ASTEGAPPS" />
         </servers>
       </group>
     </groups>
