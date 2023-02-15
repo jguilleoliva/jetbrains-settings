@@ -31,6 +31,8 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
   <action id="Markdown.Styling.CreateLink" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
