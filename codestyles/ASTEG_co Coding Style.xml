@@ -9,8 +9,9 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_UNIFORM_INDENT" value="true" />
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
-    <option name="HTML_KEEP_BLANK_LINES" value="1" />
-    <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+    <option name="HTML_KEEP_BLANK_LINES" value="0" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="HTML_QUOTE_STYLE" value="Single" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
