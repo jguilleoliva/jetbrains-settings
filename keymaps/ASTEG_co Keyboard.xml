@@ -22,6 +22,9 @@
   <action id="EditorSearchSession.NextOccurrenceAction">
     <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
+  <action id="EditorSearchSession.PrevOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
   <action id="EditorTextEndWithSelection" />
   <action id="EditorTextStartWithSelection" />
   <action id="EditorToggleCase" />
@@ -43,9 +46,7 @@
   <action id="MoveStatementUp" />
   <action id="NextEditorTab" />
   <action id="NextOccurence" />
-  <action id="NextProjectWindow" />
   <action id="NextTab" />
-  <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
   <action id="PreviousTab" />
   <action id="PublishGroup.Download">
