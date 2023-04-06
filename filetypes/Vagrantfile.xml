@@ -11,10 +11,10 @@
       <option name="HAS_PARENS" value="true" />
       <option name="HAS_STRING_ESCAPES" value="true" />
     </options>
-    <keywords keywords="config;end" ignore_case="false" />
-    <keywords2 keywords="ssh;trigger;virtualbox;vm" />
-    <keywords3 keywords="cpus;customize;do;insert_key;memory;network;on_error;private_key_path;provider;provision;run_remote;synced_folder;warn" />
-    <keywords4 keywords=":continue;:halt;:id;:mount_options;:reboot;:restart;:suspend;destination:;false;inline:;ip:;netmask:;path:;run:;source:;true" />
+    <keywords keywords="Vagrant;config;end" ignore_case="false" />
+    <keywords2 keywords="configure;ssh;trigger;virtualbox;vm" />
+    <keywords3 keywords="before;box;cpus;customize;do;false;insert_key;memory;network;on_error;private_key_path;provider;provision;run_remote;synced_folder;true;warn" />
+    <keywords4 keywords=":continue;:halt;:id;:mount_options;:reboot;:reload;:restart;:suspend" />
   </highlighting>
   <extensionMap>
     <mapping pattern="Vagrantfile" />

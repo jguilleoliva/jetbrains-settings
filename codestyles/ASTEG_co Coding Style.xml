@@ -1,4 +1,9 @@
 <code_scheme name="ASTEG|co Coding Style" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </value>
+  </option>
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
