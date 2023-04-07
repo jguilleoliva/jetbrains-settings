@@ -18,6 +18,5 @@
   </highlighting>
   <extensionMap>
     <mapping pattern="Vagrantfile" />
-    <hashBang value="# -*- mode: ruby -*-" type="Vagrantfile" />
   </extensionMap>
 </filetype>
