@@ -1,8 +1,10 @@
 <application>
   <component name="StringManipulationState">
-    <option name="lastAction">
+    <option name="lastActionModel">
       <UniversalActionModel>
         <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.IncrementDuplicateNumbersAction" />
+        <option name="description" value="Increment duplicate numbers" />
+        <option name="textWithMnemonic" value="Increment Duplicates" />
       </UniversalActionModel>
     </option>
   </component>
