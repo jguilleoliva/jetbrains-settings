@@ -4,6 +4,7 @@
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
     <option name="VALUE_ALIGNMENT" value="2" />
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
@@ -57,6 +58,12 @@
     <option name="SPACES_AROUND_PIPE_IN_UNION_TYPE" value="true" />
     <option name="FORCE_EMPTY_METHODS_IN_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
+  <PostCssCodeStyleSettings>
+    <option name="COMMENTS_INLINE_STYLE" value="false" />
+  </PostCssCodeStyleSettings>
+  <SassCodeStyleSettings>
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+  </SassCodeStyleSettings>
   <ScssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
@@ -103,6 +110,7 @@
   </editorconfig>
   <codeStyleSettings language="CSS">
     <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
@@ -196,6 +204,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
