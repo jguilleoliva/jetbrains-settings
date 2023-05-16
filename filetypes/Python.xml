@@ -1,0 +1,22 @@
+<filetype binary="false" description="Python" name="Python">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="HAS_STRING_ESCAPES" value="true" />
+    </options>
+    <keywords keywords="Vagrant" ignore_case="false" />
+    <keywords2 keywords="config;end" />
+    <keywords3 keywords="ssh;trigger;virtualbox;vm" />
+    <keywords4 keywords="before;config;cpus;customize;insert_key;memory;network;on_error;private_key_path;provider;provision;run_remote;synced_folder;warn" />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern="Vagrantfile" />
+  </extensionMap>
+</filetype>
