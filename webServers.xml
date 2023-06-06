@@ -64,8 +64,15 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="2238d887-9f1b-4011-912d-d74d4bf1328e" name="VPS - SHARED-SERVER">
+      <webServer id="2238d887-9f1b-4011-912d-d74d4bf1328e" name="VPS - ASTEG-SHARED-SERVER-1">
         <fileTransfer accessType="SFTP" host="159.89.143.158" port="22" sshConfigId="4bad7502-df78-48cb-b7cb-37763fed906b" sshConfig="root@159.89.143.158:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f5b37e4f-9759-482e-8eee-64fa87e2aae5" name="VPS - ASTEG-SHARED-SERVER-2">
+        <fileTransfer accessType="SFTP" host="138.68.48.191" port="22" sshConfigId="03f4af57-17f6-4dc3-b8ca-d83baf6774c8" sshConfig="root@138.68.48.191:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -90,7 +97,8 @@
           <name value="VPS - MERCADOREPUBLICA" />
           <name value="VPS - INTUSASTEGCLOUD" />
           <name value="VPS - ASTEGAPPS" />
-          <name value="VPS - SHARED-SERVER" />
+          <name value="VPS - ASTEG-SHARED-SERVER-1" />
+          <name value="VPS - ASTEG-SHARED-SERVER-2" />
         </servers>
       </group>
     </groups>
