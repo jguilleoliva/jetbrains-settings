@@ -30,7 +30,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="52cd0ca9-6ac2-4a8f-b66e-52c582a327f0" name="192.168.1.36">
-        <fileTransfer accessType="SFTP" host="192.168.1.36" port="22" sshConfigId="3ee1aa6a-9fd1-45c3-91fa-c91b8ae0cbe6" sshConfig="vagrant@192.168.1.36:22 key" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="3ee1aa6a-9fd1-45c3-91fa-c91b8ae0cbe6" sshConfig="vagrant@192.168.1.36:22 key">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -64,6 +64,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="2238d887-9f1b-4011-912d-d74d4bf1328e" name="VPS - SHARED-SERVER">
+        <fileTransfer accessType="SFTP" host="159.89.143.158" port="22" sshConfigId="4bad7502-df78-48cb-b7cb-37763fed906b" sshConfig="root@159.89.143.158:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
@@ -83,6 +90,7 @@
           <name value="VPS - MERCADOREPUBLICA" />
           <name value="VPS - INTUSASTEGCLOUD" />
           <name value="VPS - ASTEGAPPS" />
+          <name value="VPS - SHARED-SERVER" />
         </servers>
       </group>
     </groups>
