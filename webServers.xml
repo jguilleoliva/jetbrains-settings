@@ -36,6 +36,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="5ee41845-2fd9-4d29-a6aa-6036471f44b4" name="192.168.0.46">
+        <fileTransfer accessType="SFTP" host="192.168.0.46" port="22" sshConfigId="6f96e8fb-3674-4ccd-b179-f74e7fb01755" sshConfig="vagrant@192.168.0.46:22" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="8a01fd42-94e5-4041-8099-7b3e9c0aca49" name="VPS - ASTEG PROPERTIES">
         <fileTransfer accessType="SFTP" host="159.203.217.185" port="22" sshConfigId="4b14e64a-c7d1-4898-aabc-3df2d5e8bdd9" sshConfig="root@159.203.217.185:22 key" keyPair="true">
           <advancedOptions>
@@ -65,14 +72,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="2238d887-9f1b-4011-912d-d74d4bf1328e" name="VPS - ASTEG-SHARED-SERVER-1">
-        <fileTransfer accessType="SFTP" host="159.89.143.158" port="22" sshConfigId="4bad7502-df78-48cb-b7cb-37763fed906b" sshConfig="root@159.89.143.158:22 key" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="4bad7502-df78-48cb-b7cb-37763fed906b" sshConfig="root@159.89.143.158:22 key">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="f5b37e4f-9759-482e-8eee-64fa87e2aae5" name="VPS - ASTEG-SHARED-SERVER-2">
-        <fileTransfer accessType="SFTP" host="138.68.48.191" port="22" sshConfigId="03f4af57-17f6-4dc3-b8ca-d83baf6774c8" sshConfig="root@138.68.48.191:22 key" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="03f4af57-17f6-4dc3-b8ca-d83baf6774c8" sshConfig="root@138.68.48.191:22 key">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -88,6 +95,7 @@
           <name value="192.168.1.44" />
           <name value="192.168.1.50" />
           <name value="192.168.1.36" />
+          <name value="192.168.0.46" />
         </servers>
       </group>
       <group>
