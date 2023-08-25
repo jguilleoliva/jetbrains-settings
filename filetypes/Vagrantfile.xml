@@ -1,4 +1,4 @@
-<filetype binary="false" description="Python" name="Python">
+<filetype binary="false" description="Vagrantfile" name="Vagrantfile">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="#" />
@@ -11,10 +11,10 @@
       <option name="HAS_PARENS" value="true" />
       <option name="HAS_STRING_ESCAPES" value="true" />
     </options>
-    <keywords keywords="Vagrant" ignore_case="false" />
-    <keywords2 keywords="config;end" />
-    <keywords3 keywords="ssh;trigger;virtualbox;vm" />
-    <keywords4 keywords="before;config;cpus;customize;insert_key;memory;network;on_error;private_key_path;provider;provision;run_remote;synced_folder;warn" />
+    <keywords keywords="Vagrant;config;end" ignore_case="false" />
+    <keywords2 keywords="configure;ssh;trigger;virtualbox;vm" />
+    <keywords3 keywords="before;box;cpus;customize;do;false;insert_key;memory;network;on_error;private_key_path;provider;provision;run_remote;synced_folder;true;warn" />
+    <keywords4 keywords=":continue;:halt;:id;:mount_options;:reboot;:reload;:restart;:suspend" />
   </highlighting>
   <extensionMap>
     <mapping pattern="Vagrantfile" />

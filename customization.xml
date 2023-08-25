@@ -1,25 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NavBarToolBarOthers" is_group="true" forse_popup="false" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NavBarVcsGroup" is_group="true" forse_popup="false" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ToolWindowsGroup" is_group="true" forse_popup="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />

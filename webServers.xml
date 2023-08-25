@@ -23,7 +23,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="550f89b1-e4d1-420f-a879-e341942e7173" name="192.168.1.50">
-        <fileTransfer accessType="SFTP" host="178.128.0.118" port="22" sshConfigId="ca039efb-e0fa-4cc8-abc4-7a3d947971b0" sshConfig="root@178.128.0.118:22 key" keyPair="true">
+        <fileTransfer accessType="SFTP" host="192.168.1.50" port="22" sshConfigId="ca039efb-e0fa-4cc8-abc4-7a3d947971b0" sshConfig="vagrant@192.168.1.50:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -31,13 +31,6 @@
       </webServer>
       <webServer id="52cd0ca9-6ac2-4a8f-b66e-52c582a327f0" name="192.168.1.36">
         <fileTransfer accessType="SFTP" sshConfigId="3ee1aa6a-9fd1-45c3-91fa-c91b8ae0cbe6" sshConfig="vagrant@192.168.1.36:22 key">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="5ee41845-2fd9-4d29-a6aa-6036471f44b4" name="192.168.0.46">
-        <fileTransfer accessType="SFTP" host="192.168.0.46" port="22" sshConfigId="6f96e8fb-3674-4ccd-b179-f74e7fb01755" sshConfig="vagrant@192.168.0.46:22" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -71,15 +64,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="2238d887-9f1b-4011-912d-d74d4bf1328e" name="VPS - ASTEG-SHARED-SERVER-1">
-        <fileTransfer accessType="SFTP" host="206.189.216.43" port="22" sshConfigId="faafc7dc-af57-4dd5-8ee4-817c52ef5dc0" sshConfig="root@206.189.216.43:22 key" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="f5b37e4f-9759-482e-8eee-64fa87e2aae5" name="VPS - ASTEG-SHARED-SERVER-2">
-        <fileTransfer accessType="SFTP" host="178.128.0.118" port="22" sshConfigId="ca039efb-e0fa-4cc8-abc4-7a3d947971b0" sshConfig="root@178.128.0.118:22 key" keyPair="true">
+      <webServer id="3c164fc5-4f66-41d7-9374-12cebaa09586" name="VPS - REXEJUYU">
+        <fileTransfer accessType="SFTP" host="137.184.116.39" port="22" sshConfigId="dedcd201-2421-4793-8386-7eb878623d1f" sshConfig="root@137.184.116.39:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -95,7 +81,6 @@
           <name value="192.168.1.44" />
           <name value="192.168.1.50" />
           <name value="192.168.1.36" />
-          <name value="192.168.0.46" />
         </servers>
       </group>
       <group>
@@ -105,8 +90,7 @@
           <name value="VPS - MERCADOREPUBLICA" />
           <name value="VPS - INTUSASTEGCLOUD" />
           <name value="VPS - ASTEGAPPS" />
-          <name value="VPS - ASTEG-SHARED-SERVER-1" />
-          <name value="VPS - ASTEG-SHARED-SERVER-2" />
+          <name value="VPS - REXEJUYU" />
         </servers>
       </group>
     </groups>
