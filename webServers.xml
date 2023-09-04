@@ -65,7 +65,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="3c164fc5-4f66-41d7-9374-12cebaa09586" name="VPS - REXEJUYU">
-        <fileTransfer accessType="SFTP" host="137.184.116.39" port="22" sshConfigId="dedcd201-2421-4793-8386-7eb878623d1f" sshConfig="root@137.184.116.39:22 key" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="dedcd201-2421-4793-8386-7eb878623d1f" sshConfig="root@137.184.116.39:22 key">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f69b8b18-96f8-4bcb-8cd2-4b19f2249b1d" name="VPS - MERCADOREPUBLICA - 2">
+        <fileTransfer accessType="SFTP" host="178.128.0.118" port="22" sshConfigId="f7e803de-8c38-4cca-97dc-f98ab19f2851" sshConfig="root@178.128.0.118:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -91,6 +98,7 @@
           <name value="VPS - INTUSASTEGCLOUD" />
           <name value="VPS - ASTEGAPPS" />
           <name value="VPS - REXEJUYU" />
+          <name value="VPS - MERCADOREPUBLICA - 2" />
         </servers>
       </group>
     </groups>
